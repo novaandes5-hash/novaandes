@@ -1962,8 +1962,8 @@ const CATALOG = [
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
-      "img/dropi-oct/dropi-153287-1.jpg",
       "img/dropi-oct/dropi-153287-2.png",
+      "img/dropi-oct/dropi-153287-1.jpg",
       "img/dropi-oct/dropi-153287-3.png"
     ],
     "description": "Licuadora de mano 4 en 1 con motor de alta potencia, velocidad variable y turbo: licúa, pica y bate con un solo equipo.",
