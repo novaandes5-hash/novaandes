@@ -23,6 +23,7 @@
     var dots = Array.prototype.slice.call(dotsBox.children);
 
     function paused() { return userPaused || hoverPaused; }
+    function syncPause() { hc.classList.toggle('is-paused', paused()); }
     function render() {
       track.style.transform = 'translateX(-' + (i * 100) + '%)';
       if (nowEl) nowEl.textContent = ('0' + (i + 1)).slice(-2);
@@ -46,11 +47,12 @@
     hc.querySelector('.hc-prev').addEventListener('click', function () { prev(); restart(); });
     pauseBtn.addEventListener('click', function () {
       userPaused = !userPaused;
+      syncPause();
       pauseBtn.textContent = userPaused ? '▶' : '❚❚';
       pauseBtn.setAttribute('aria-label', userPaused ? 'Reproducir' : 'Pausar');
     });
-    hc.addEventListener('mouseenter', function () { hoverPaused = true; });
-    hc.addEventListener('mouseleave', function () { hoverPaused = false; });
+    hc.addEventListener('mouseenter', function () { hoverPaused = true; syncPause(); });
+    hc.addEventListener('mouseleave', function () { hoverPaused = false; syncPause(); });
     document.addEventListener('keydown', function (e) {
       var tag = (document.activeElement && document.activeElement.tagName) || '';
       if (/INPUT|TEXTAREA|SELECT/.test(tag)) return;
@@ -58,13 +60,14 @@
       else if (e.key === 'ArrowLeft') { prev(); restart(); }
     });
     var tx = 0;
-    track.addEventListener('touchstart', function (e) { tx = e.touches[0].clientX; hoverPaused = true; }, { passive: true });
+    track.addEventListener('touchstart', function (e) { tx = e.touches[0].clientX; hoverPaused = true; syncPause(); }, { passive: true });
     track.addEventListener('touchend', function (e) {
       var dx = e.changedTouches[0].clientX - tx;
       if (Math.abs(dx) > 40) { if (dx < 0) next(); else prev(); restart(); }
-      hoverPaused = false;
+      hoverPaused = false; syncPause();
     }, { passive: true });
     render();
+    syncPause();
     start();
   }
 
