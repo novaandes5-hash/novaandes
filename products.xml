@@ -750,4 +750,104 @@
     <description>Añade soporte ajustable a una rodilla durante actividades cotidianas compatibles.</description>
     <availability>in_stock</availability>
   </product>
+  <product>
+    <id>cocina-gas-portatil-191178</id>
+    <title>Cocina de gas portátil para camping</title>
+    <link>https://novaandes.ec/productos/cocina-gas-portatil-191178/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-191178-1.jpeg</image>
+    <price>39.00 USD</price>
+    <category>Auto y viaje</category>
+    <description>Cocina compacta a gas para cocinar al aire libre: en campamentos, paseos o cuando necesitas una hornilla extra.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>batidor-mano-42608</id>
+    <title>Batidor de mano de acero inoxidable</title>
+    <link>https://novaandes.ec/productos/batidor-mano-42608/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-42608-1.jpg</image>
+    <price>24.00 USD</price>
+    <category>Cocina</category>
+    <description>Batidor manual de acero inoxidable para batir huevos, mezclar salsas y preparar emulsiones en segundos.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>limpia-vasos-presion-267</id>
+    <title>Lavavasos a presión para fregadero</title>
+    <link>https://novaandes.ec/productos/limpia-vasos-presion-267/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-267-1.jpeg</image>
+    <price>24.00 USD</price>
+    <category>Cocina</category>
+    <description>Lava vasos, tazas y botellas con un chorro de agua a presión: rápido, higiénico y fácil de instalar en el fregadero.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>spray-sellador-174911</id>
+    <title>Spray sellador impermeable</title>
+    <link>https://novaandes.ec/productos/spray-sellador-174911/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-174911-1.jpg</image>
+    <price>21.00 USD</price>
+    <category>Hogar y herramientas</category>
+    <description>Spray sellador de fórmula de caucho líquido que impermeabiliza y sella filtraciones en múltiples superficies.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>dispensador-arroz-144708</id>
+    <title>Dispensador de arroz con dosificador</title>
+    <link>https://novaandes.ec/productos/dispensador-arroz-144708/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-144708-1.jpg</image>
+    <price>30.00 USD</price>
+    <category>Cocina</category>
+    <description>Dispensador con dosificador que mantiene el arroz y los granos frescos, protegidos de la humedad, el polvo y los insectos.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>cepillo-dental-electrico-185071</id>
+    <title>Cepillo dental eléctrico recargable</title>
+    <link>https://novaandes.ec/productos/cepillo-dental-electrico-185071/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-185071-1.jpeg</image>
+    <price>19.00 USD</price>
+    <category>Organización personal</category>
+    <description>Cepillo dental eléctrico recargable por USB con vibración de alta frecuencia para una limpieza profunda diaria.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>licuadora-mano-4en1-153287</id>
+    <title>Licuadora de mano 4 en 1</title>
+    <link>https://novaandes.ec/productos/licuadora-mano-4en1-153287/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-153287-1.jpg</image>
+    <price>49.00 USD</price>
+    <category>Cocina</category>
+    <description>Licuadora de mano 4 en 1 con motor de alta potencia, velocidad variable y turbo: licúa, pica y bate con un solo equipo.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>platera-vitrina-45340</id>
+    <title>Platera con vitrina protectora</title>
+    <link>https://novaandes.ec/productos/platera-vitrina-45340/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-45340-1.webp</image>
+    <price>39.00 USD</price>
+    <category>Cocina</category>
+    <description>Escurreplatos con vitrina protectora de acrílico que mantiene tu vajilla limpia, ordenada y libre de polvo.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>taladro-2-baterias-124438</id>
+    <title>Taladro con 2 baterías recargables</title>
+    <link>https://novaandes.ec/productos/taladro-2-baterias-124438/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-124438-1.webp</image>
+    <price>49.00 USD</price>
+    <category>Hogar y herramientas</category>
+    <description>Taladro eléctrico de litio con 2 baterías recargables y maletín con accesorios: listo para perforar y atornillar.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>cepillo-giratorio-9en1-112421</id>
+    <title>Cepillo giratorio de limpieza 9 en 1</title>
+    <link>https://novaandes.ec/productos/cepillo-giratorio-9en1-112421/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-112421-1.jpg</image>
+    <price>29.00 USD</price>
+    <category>Limpieza</category>
+    <description>Kit de limpieza con cepillo giratorio y 9 cabezales intercambiables para azulejos, bañeras, cocinas, vidrios y esquinas.</description>
+    <availability>in_stock</availability>
+  </product>
 </products>

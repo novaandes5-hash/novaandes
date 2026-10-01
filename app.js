@@ -1793,6 +1793,268 @@ const CATALOG = [
     ],
     "availability": "No es un dispositivo médico ni se prometen efectos terapéuticos; confirmamos talla, lado, material y existencias antes del pedido.",
     "url": "https://novaandes.ec/productos/rodillera-unidad-158443/"
+  },
+{
+    "id": "cocina-gas-portatil-191178",
+    "orderCode": "NA-MC5HTA",
+    "name": "Cocina de gas portátil para camping",
+    "category": "Auto y viaje",
+    "price": 39,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-191178-1.jpeg",
+      "img/dropi-oct/dropi-191178-2.jpeg",
+      "img/dropi-oct/dropi-191178-3.jpeg"
+    ],
+    "description": "Cocina compacta a gas para cocinar al aire libre: en campamentos, paseos o cuando necesitas una hornilla extra.",
+    "features": [
+      "1 cocina de gas portátil",
+      "Llama ajustable",
+      "Diseño compacto y base estable",
+      "Funciona a gas (sin conexión eléctrica)",
+      "Fácil de limpiar"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/cocina-gas-portatil-191178/"
+  },
+{
+    "id": "batidor-mano-42608",
+    "orderCode": "NA-VGG7Y8",
+    "name": "Batidor de mano de acero inoxidable",
+    "category": "Cocina",
+    "price": 24,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-42608-1.jpg",
+      "img/dropi-oct/dropi-42608-2.jpg",
+      "img/dropi-oct/dropi-42608-3.jpg"
+    ],
+    "description": "Batidor manual de acero inoxidable para batir huevos, mezclar salsas y preparar emulsiones en segundos.",
+    "features": [
+      "1 batidor manual",
+      "Acero inoxidable",
+      "Mango ergonómico",
+      "Formato compacto",
+      "Apto para lavavajillas"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/batidor-mano-42608/"
+  },
+{
+    "id": "limpia-vasos-presion-267",
+    "orderCode": "NA-CKFWVK",
+    "name": "Lavavasos a presión para fregadero",
+    "category": "Cocina",
+    "price": 24,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-267-1.jpeg",
+      "img/dropi-oct/dropi-267-2.jpeg",
+      "img/dropi-oct/dropi-267-3.webp"
+    ],
+    "description": "Lava vasos, tazas y botellas con un chorro de agua a presión: rápido, higiénico y fácil de instalar en el fregadero.",
+    "features": [
+      "1 lavador de vasos a presión",
+      "Limpia vasos, tazas y botellas rápidamente",
+      "Instalación sencilla en el fregadero",
+      "Ideal para la cocina del hogar y negocios"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/limpia-vasos-presion-267/"
+  },
+{
+    "id": "spray-sellador-174911",
+    "orderCode": "NA-BG8SYS",
+    "name": "Spray sellador impermeable",
+    "category": "Hogar y herramientas",
+    "price": 21,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-174911-1.jpg",
+      "img/dropi-oct/dropi-174911-2.png",
+      "img/dropi-oct/dropi-174911-3.png"
+    ],
+    "description": "Spray sellador de fórmula de caucho líquido que impermeabiliza y sella filtraciones en múltiples superficies.",
+    "features": [
+      "1 lata de spray sellador",
+      "Impermeable y hermético",
+      "Multi-superficie: concreto, baldosas, metal, PVC, madera y cemento",
+      "Secado rápido",
+      "Acabado pintable"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/spray-sellador-174911/"
+  },
+{
+    "id": "dispensador-arroz-144708",
+    "orderCode": "NA-2K3KFG",
+    "name": "Dispensador de arroz con dosificador",
+    "category": "Cocina",
+    "price": 30,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-144708-1.jpg",
+      "img/dropi-oct/dropi-144708-2.png",
+      "img/dropi-oct/dropi-144708-3.png"
+    ],
+    "description": "Dispensador con dosificador que mantiene el arroz y los granos frescos, protegidos de la humedad, el polvo y los insectos.",
+    "features": [
+      "1 dispensador de arroz",
+      "Dosificador integrado",
+      "Ventana transparente para ver el nivel",
+      "Diseño compacto que ahorra espacio",
+      "Plástico apto para alimentos (ABS y PP)",
+      "Color enviado aleatoriamente"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/dispensador-arroz-144708/"
+  },
+{
+    "id": "cepillo-dental-electrico-185071",
+    "orderCode": "NA-BVQG2N",
+    "name": "Cepillo dental eléctrico recargable",
+    "category": "Organización personal",
+    "price": 19,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-185071-1.jpeg",
+      "img/dropi-oct/dropi-185071-2.jpeg",
+      "img/dropi-oct/dropi-185071-3.jpeg"
+    ],
+    "description": "Cepillo dental eléctrico recargable por USB con vibración de alta frecuencia para una limpieza profunda diaria.",
+    "features": [
+      "1 cepillo dental eléctrico",
+      "Recargable por USB",
+      "Temporizador integrado",
+      "Vibración de alta frecuencia",
+      "Cabezal reemplazable",
+      "Diseño ergonómico, ideal para hogar y viajes"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/cepillo-dental-electrico-185071/"
+  },
+{
+    "id": "licuadora-mano-4en1-153287",
+    "orderCode": "NA-859BXN",
+    "name": "Licuadora de mano 4 en 1",
+    "category": "Cocina",
+    "price": 49,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-153287-1.jpg",
+      "img/dropi-oct/dropi-153287-2.png",
+      "img/dropi-oct/dropi-153287-3.png"
+    ],
+    "description": "Licuadora de mano 4 en 1 con motor de alta potencia, velocidad variable y turbo: licúa, pica y bate con un solo equipo.",
+    "features": [
+      "Motor de alta potencia con velocidad variable + turbo",
+      "Cuchilla Pro-Blade de acero inoxidable (4 cuchillas)",
+      "Diseño antisalpicaduras",
+      "Acople rápido Easy-Click",
+      "Incluye: brazo licuador, vaso picador con base antideslizante, batidor metálico, vaso medidor graduado y manual",
+      "Accesorios libres de BPA"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/licuadora-mano-4en1-153287/"
+  },
+{
+    "id": "platera-vitrina-45340",
+    "orderCode": "NA-YTNCMD",
+    "name": "Platera con vitrina protectora",
+    "category": "Cocina",
+    "price": 39,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-45340-1.webp",
+      "img/dropi-oct/dropi-45340-2.webp",
+      "img/dropi-oct/dropi-45340-3.png"
+    ],
+    "description": "Escurreplatos con vitrina protectora de acrílico que mantiene tu vajilla limpia, ordenada y libre de polvo.",
+    "features": [
+      "1 platera con vitrina",
+      "Medidas: 80,5 cm de alto × 85,5 cm de ancho × 27,5 cm de profundidad",
+      "Estructura de acero inoxidable",
+      "Vitrina acrílica transparente",
+      "Incluye: porta cubiertos, porta cuchillos, soporte para tablas y repisa para jabón",
+      "Color negro"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/platera-vitrina-45340/"
+  },
+{
+    "id": "taladro-2-baterias-124438",
+    "orderCode": "NA-CL8A6H",
+    "name": "Taladro con 2 baterías recargables",
+    "category": "Hogar y herramientas",
+    "price": 49,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-124438-1.webp",
+      "img/dropi-oct/dropi-124438-2.jpg",
+      "img/dropi-oct/dropi-124438-3.jpg"
+    ],
+    "description": "Taladro eléctrico de litio con 2 baterías recargables y maletín con accesorios: listo para perforar y atornillar.",
+    "features": [
+      "1 taladro de litio",
+      "2 baterías de iones de litio",
+      "1 cargador",
+      "Maletín plástico con brocas, puntas y dados",
+      "Embrague ajustable con múltiples posiciones de torque"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/taladro-2-baterias-124438/"
+  },
+{
+    "id": "cepillo-giratorio-9en1-112421",
+    "orderCode": "NA-GYNLYA",
+    "name": "Cepillo giratorio de limpieza 9 en 1",
+    "category": "Limpieza",
+    "price": 29,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-112421-1.jpg",
+      "img/dropi-oct/dropi-112421-2.jpg",
+      "img/dropi-oct/dropi-112421-3.jpg"
+    ],
+    "description": "Kit de limpieza con cepillo giratorio y 9 cabezales intercambiables para azulejos, bañeras, cocinas, vidrios y esquinas.",
+    "features": [
+      "1 mango con cepillo giratorio",
+      "9 cabezales intercambiables",
+      "Para azulejos, bañeras, cocinas, juntas y vidrios",
+      "Mango extensible"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/cepillo-giratorio-9en1-112421/"
   }
 ];
 
