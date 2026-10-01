@@ -5,9 +5,12 @@
   var WA_NUMBER = '593996866524';
   var CART_KEY = 'novaandes_cart_v1';
 
-  var CATALOG = window.CATALOG || [];
-  var GALLERIES = window.VERIFIED_GALLERIES || {};
-  var products = CATALOG.filter(function (p) {
+  // app.js declares these as top-level const (global lexical bindings, not window props)
+  var DATA = (typeof CATALOG !== 'undefined') ? CATALOG
+    : (typeof window !== 'undefined' && window.CATALOG) || [];
+  var GALLERIES = (typeof VERIFIED_GALLERIES !== 'undefined') ? VERIFIED_GALLERIES
+    : (typeof window !== 'undefined' && window.VERIFIED_GALLERIES) || {};
+  var products = DATA.filter(function (p) {
     return p && p.status === 'published' && p.retailApproved === true;
   });
   var byId = {};
