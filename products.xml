@@ -51,16 +51,6 @@
     <availability>in_stock</availability>
   </product>
   <product>
-    <id>fundas-zapatos-149004</id>
-    <title>Fundas impermeables de silicona para zapatos</title>
-    <link>https://novaandes.ec/productos/fundas-zapatos-149004/</link>
-    <image>https://novaandes.ec/img/dropi-149004.png</image>
-    <price>22.00 USD</price>
-    <category>Auto y viaje</category>
-    <description>Cubre zapatos compatibles al caminar bajo lluvia o sobre superficies húmedas.</description>
-    <availability>in_stock</availability>
-  </product>
-  <product>
     <id>picador-3-litros-112193</id>
     <title>Picador triturador eléctrico de 3 litros</title>
     <link>https://novaandes.ec/productos/picador-3-litros-112193/</link>
@@ -88,16 +78,6 @@
     <price>26.00 USD</price>
     <category>Cocina</category>
     <description>Prepara porciones a la plancha en una sartén redonda de estilo coreano.</description>
-    <availability>in_stock</availability>
-  </product>
-  <product>
-    <id>fundas-ropa-156292</id>
-    <title>Fundas para ropa 60 × 120 cm · 10 unidades</title>
-    <link>https://novaandes.ec/productos/fundas-ropa-156292/</link>
-    <image>https://novaandes.ec/img/fundas-156292.jpg</image>
-    <price>27.00 USD</price>
-    <category>Organización del hogar</category>
-    <description>Cubre prendas colgadas y mantén el clóset visualmente ordenado con fundas translúcidas.</description>
     <availability>in_stock</availability>
   </product>
   <product>
@@ -561,16 +541,6 @@
     <availability>in_stock</availability>
   </product>
   <product>
-    <id>cargador-auto-humidificador-179187</id>
-    <title>Cargador para auto con luz RGB y difusor</title>
-    <link>https://novaandes.ec/productos/cargador-auto-humidificador-179187/</link>
-    <image>https://novaandes.ec/img/cargador-auto-179187-1.webp</image>
-    <price>34.00 USD</price>
-    <category>Auto y viaje</category>
-    <description>Añade puertos de carga y una salida de neblina decorativa al tomacorriente compatible del vehículo.</description>
-    <availability>in_stock</availability>
-  </product>
-  <product>
     <id>freidora-aire-6l-140099</id>
     <title>Freidora de aire digital de 6 litros</title>
     <link>https://novaandes.ec/productos/freidora-aire-6l-140099/</link>
@@ -621,16 +591,6 @@
     <availability>in_stock</availability>
   </product>
   <product>
-    <id>camara-wifi-ip66-65031</id>
-    <title>Cámara Wi‑Fi IP66</title>
-    <link>https://novaandes.ec/productos/camara-wifi-ip66-65031/</link>
-    <image>https://novaandes.ec/img/dropi-65031.webp</image>
-    <price>39.00 USD</price>
-    <category>Seguridad y tecnología</category>
-    <description>Supervisa un espacio compatible desde una cámara conectada a la red Wi‑Fi.</description>
-    <availability>in_stock</availability>
-  </product>
-  <product>
     <id>plancha-vapor-portatil-82369</id>
     <title>Plancha de vapor portátil para ropa</title>
     <link>https://novaandes.ec/productos/plancha-vapor-portatil-82369/</link>
@@ -648,16 +608,6 @@
     <price>22.00 USD</price>
     <category>Organización del hogar</category>
     <description>Guarda ropa y artículos ligeros en una bolsa reutilizable para mantener el espacio ordenado.</description>
-    <availability>in_stock</availability>
-  </product>
-  <product>
-    <id>pulverizador-aceite-172732</id>
-    <title>Pulverizador de aceite para cocina</title>
-    <link>https://novaandes.ec/productos/pulverizador-aceite-172732/</link>
-    <image>https://novaandes.ec/img/dropi-172732.png</image>
-    <price>20.00 USD</price>
-    <category>Cocina</category>
-    <description>Aplica aceite en una neblina fina sobre utensilios y alimentos compatibles.</description>
     <availability>in_stock</availability>
   </product>
   <product>
@@ -794,7 +744,7 @@
     <id>dispensador-arroz-144708</id>
     <title>Dispensador de arroz con dosificador</title>
     <link>https://novaandes.ec/productos/dispensador-arroz-144708/</link>
-    <image>https://novaandes.ec/img/dropi-oct/dropi-144708-1.jpg</image>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-144708-3.png</image>
     <price>30.00 USD</price>
     <category>Cocina</category>
     <description>Dispensador con dosificador que mantiene el arroz y los granos frescos, protegidos de la humedad, el polvo y los insectos.</description>

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T00:25:21.368Z",
+  "generatedAt": "2026-10-02T00:30:44.455Z",
   "currency": "USD",
-  "productCount": 93,
+  "productCount": 88,
   "products": [
     {
       "id": "linterna-tactica-152234",
@@ -129,31 +129,6 @@
       "url": "https://novaandes.ec/productos/cepillo-mascotas-73302/"
     },
     {
-      "id": "fundas-zapatos-149004",
-      "orderCode": "NA-0NWE52A",
-      "name": "Fundas impermeables de silicona para zapatos",
-      "category": "Auto y viaje",
-      "price": 22,
-      "currency": "USD",
-      "status": "published",
-      "retailApproved": true,
-      "shipping": "Envío incluido, sujeto a cobertura",
-      "images": [
-        "https://novaandes.ec/img/dropi-149004.png",
-        "https://novaandes.ec/img/fundas-zapatos-149004-ref-2.png",
-        "https://novaandes.ec/img/fundas-zapatos-149004-ref-3.png"
-      ],
-      "description": "Cubre zapatos compatibles al caminar bajo lluvia o sobre superficies húmedas.",
-      "features": [
-        "1 par de fundas de silicona",
-        "Diseño reutilizable",
-        "Suela texturizada",
-        "Tallas L y M mostradas en la ficha"
-      ],
-      "availability": "La primera foto es del proveedor; las imágenes adicionales son recreaciones de referencia. La resistencia al deslizamiento depende de la superficie y el ajuste. Confirmamos talla, color y existencias antes del pedido.",
-      "url": "https://novaandes.ec/productos/fundas-zapatos-149004/"
-    },
-    {
       "id": "picador-3-litros-112193",
       "orderCode": "NA-0LBKL0V",
       "name": "Picador triturador eléctrico de 3 litros",
@@ -227,29 +202,6 @@
       ],
       "availability": "La primera foto es del proveedor sin publicidad de KAY-IMPORTS; las imágenes adicionales son recreaciones de referencia. Confirmamos diámetro, material, compatibilidad, variante y existencias antes del pedido.",
       "url": "https://novaandes.ec/productos/sarten-coreano-121419/"
-    },
-    {
-      "id": "fundas-ropa-156292",
-      "orderCode": "NA-0OF8945",
-      "name": "Fundas para ropa 60 × 120 cm · 10 unidades",
-      "category": "Organización del hogar",
-      "price": 27,
-      "currency": "USD",
-      "status": "published",
-      "retailApproved": true,
-      "shipping": "Envío incluido, sujeto a cobertura",
-      "images": [
-        "https://novaandes.ec/img/fundas-156292.jpg"
-      ],
-      "description": "Cubre prendas colgadas y mantén el clóset visualmente ordenado con fundas translúcidas.",
-      "features": [
-        "Paquete de 10 fundas",
-        "Medida anunciada: 60 × 120 cm",
-        "Cierre frontal",
-        "Ropa y perchas no incluidas"
-      ],
-      "availability": "Confirmamos existencias antes del pedido. Fotos del proveedor; comprueba las medidas de tus prendas.",
-      "url": "https://novaandes.ec/productos/fundas-ropa-156292/"
     },
     {
       "id": "pinzas-recipientes-134253",
@@ -1298,31 +1250,6 @@
       "url": "https://novaandes.ec/productos/cable-usbc-base-143614/"
     },
     {
-      "id": "cargador-auto-humidificador-179187",
-      "name": "Cargador para auto con luz RGB y difusor",
-      "category": "Auto y viaje",
-      "price": 34,
-      "currency": "USD",
-      "status": "published",
-      "retailApproved": true,
-      "shipping": "Envío incluido, sujeto a cobertura",
-      "images": [
-        "https://novaandes.ec/img/cargador-auto-179187-1.webp",
-        "https://novaandes.ec/img/cargador-auto-179187-2.webp",
-        "https://novaandes.ec/img/cargador-auto-179187-3.jpeg",
-        "https://novaandes.ec/img/cargador-auto-179187-4.jpeg"
-      ],
-      "description": "Añade puertos de carga y una salida de neblina decorativa al tomacorriente compatible del vehículo.",
-      "features": [
-        "1 cargador para automóvil",
-        "Dos puertos USB, según ficha analizada",
-        "Aro de luz RGB",
-        "Función de neblina y cable sujetos a confirmación"
-      ],
-      "availability": "Fotos del proveedor del producto. No se garantiza una potencia específica ni compatibilidad universal. Confirmamos voltaje, puertos, depósito, accesorios y existencias antes del pedido.",
-      "url": "https://novaandes.ec/productos/cargador-auto-humidificador-179187/"
-    },
-    {
       "id": "freidora-aire-6l-140099",
       "name": "Freidora de aire digital de 6 litros",
       "category": "Cocina",
@@ -1443,29 +1370,6 @@
       "url": "https://novaandes.ec/productos/cuadernos-escritura-magica-85475/"
     },
     {
-      "id": "camara-wifi-ip66-65031",
-      "orderCode": "NA-CAM-IP66-001",
-      "name": "Cámara Wi‑Fi IP66",
-      "category": "Seguridad y tecnología",
-      "price": 39,
-      "currency": "USD",
-      "status": "published",
-      "retailApproved": true,
-      "shipping": "Envío incluido, sujeto a cobertura",
-      "images": [
-        "https://novaandes.ec/img/dropi-65031.webp"
-      ],
-      "description": "Supervisa un espacio compatible desde una cámara conectada a la red Wi‑Fi.",
-      "features": [
-        "1 cámara Wi‑Fi",
-        "Diseño anunciado como IP66 por el proveedor",
-        "Aplicación, resolución y almacenamiento sujetos a confirmación",
-        "Accesorios de montaje sujetos al modelo"
-      ],
-      "availability": "Stock de referencia confirmado el 27/09/2026. Confirmamos existencias, compatibilidad, alimentación y accesorios antes del pedido.",
-      "url": "https://novaandes.ec/productos/camara-wifi-ip66-65031/"
-    },
-    {
       "id": "plancha-vapor-portatil-82369",
       "orderCode": "NA-1DQPGPM",
       "name": "Plancha de vapor portátil para ropa",
@@ -1510,29 +1414,6 @@
       ],
       "availability": "Confirmamos medidas, material y existencias antes del pedido.",
       "url": "https://novaandes.ec/productos/bolsa-almacenamiento-179218/"
-    },
-    {
-      "id": "pulverizador-aceite-172732",
-      "orderCode": "NA-1RRIT0R",
-      "name": "Pulverizador de aceite para cocina",
-      "category": "Cocina",
-      "price": 20,
-      "currency": "USD",
-      "status": "published",
-      "retailApproved": true,
-      "shipping": "Envío incluido, sujeto a cobertura",
-      "images": [
-        "https://novaandes.ec/img/dropi-172732.png"
-      ],
-      "description": "Aplica aceite en una neblina fina sobre utensilios y alimentos compatibles.",
-      "features": [
-        "1 pulverizador de aceite",
-        "Recipiente recargable",
-        "Aceite y alimentos no incluidos",
-        "Capacidad y material sujetos a confirmación"
-      ],
-      "availability": "Confirmamos capacidad, material, mecanismo y existencias antes del pedido; lavar antes del primer uso.",
-      "url": "https://novaandes.ec/productos/pulverizador-aceite-172732/"
     },
     {
       "id": "ventilador-recargable-super-161274",
@@ -1864,9 +1745,8 @@
       "retailApproved": true,
       "shipping": "Envío incluido, sujeto a cobertura",
       "images": [
-        "https://novaandes.ec/img/dropi-oct/dropi-144708-1.jpg",
-        "https://novaandes.ec/img/dropi-oct/dropi-144708-2.png",
-        "https://novaandes.ec/img/dropi-oct/dropi-144708-3.png"
+        "https://novaandes.ec/img/dropi-oct/dropi-144708-3.png",
+        "https://novaandes.ec/img/dropi-oct/dropi-144708-2.png"
       ],
       "description": "Dispensador con dosificador que mantiene el arroz y los granos frescos, protegidos de la humedad, el polvo y los insectos.",
       "features": [

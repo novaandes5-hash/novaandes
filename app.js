@@ -156,7 +156,7 @@ const CATALOG = [
     "category": "Auto y viaje",
     "price": 22,
     "currency": "USD",
-    "status": "published",
+    "status": "draft",
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
@@ -256,7 +256,7 @@ const CATALOG = [
     "category": "Organización del hogar",
     "price": 27,
     "currency": "USD",
-    "status": "published",
+    "status": "draft",
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
@@ -1324,7 +1324,7 @@ const CATALOG = [
     "category": "Auto y viaje",
     "price": 34,
     "currency": "USD",
-    "status": "published",
+    "status": "draft",
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
@@ -1492,7 +1492,7 @@ const CATALOG = [
     "category": "Seguridad y tecnología",
     "price": 39,
     "currency": "USD",
-    "status": "published",
+    "status": "draft",
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
@@ -1561,7 +1561,7 @@ const CATALOG = [
     "category": "Cocina",
     "price": 20,
     "currency": "USD",
-    "status": "published",
+    "status": "draft",
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
@@ -1907,9 +1907,8 @@ const CATALOG = [
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
-      "img/dropi-oct/dropi-144708-1.jpg",
-      "img/dropi-oct/dropi-144708-2.png",
-      "img/dropi-oct/dropi-144708-3.png"
+      "img/dropi-oct/dropi-144708-3.png",
+      "img/dropi-oct/dropi-144708-2.png"
     ],
     "description": "Dispensador con dosificador que mantiene el arroz y los granos frescos, protegidos de la humedad, el polvo y los insectos.",
     "features": [
