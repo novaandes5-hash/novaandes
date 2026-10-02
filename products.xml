@@ -960,4 +960,44 @@
     <description>Rodillo grande para quitar pelo de mascotas de sofás, camas y ropa.</description>
     <availability>in_stock</availability>
   </product>
+  <product>
+    <id>cesta-organizadora-ropa-57651</id>
+    <title>Cesta organizadora para ropa con ruedas</title>
+    <link>https://novaandes.ec/productos/cesta-organizadora-ropa-57651/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-57651-1.jpg</image>
+    <price>28.00 USD</price>
+    <category>Organización del hogar</category>
+    <description>Cesta organizadora con 4 compartimentos y ruedas; separa la ropa por color o tipo.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>plancha-vapor-raf-124385</id>
+    <title>Plancha de vapor RAF</title>
+    <link>https://novaandes.ec/productos/plancha-vapor-raf-124385/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-124385-1.jpg</image>
+    <price>30.00 USD</price>
+    <category>Cuidado de la ropa</category>
+    <description>Plancha a vapor RAF con calentamiento rápido y selector de temperatura para todo tipo de tela.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>aspiradora-inalambrica-mano-179798</id>
+    <title>Aspiradora inalámbrica de mano</title>
+    <link>https://novaandes.ec/productos/aspiradora-inalambrica-mano-179798/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-179798-1.jpg</image>
+    <price>39.00 USD</price>
+    <category>Hogar y tecnología</category>
+    <description>Aspiradora inalámbrica de mano con accesorios; limpia auto, sofá y rincones.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>zapatera-plegable-6-niveles-174382</id>
+    <title>Zapatera plegable de 6 niveles</title>
+    <link>https://novaandes.ec/productos/zapatera-plegable-6-niveles-174382/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-174382-1.jpg</image>
+    <price>45.00 USD</price>
+    <category>Organización del hogar</category>
+    <description>Zapatera plegable vertical de 6 niveles con puertas transparentes; ahorra espacio.</description>
+    <availability>in_stock</availability>
+  </product>
 </products>

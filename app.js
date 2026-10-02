@@ -2547,6 +2547,110 @@ const CATALOG = [
     ],
     "availability": "Imágenes retocadas para eliminar texto publicitario del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
     "url": "https://novaandes.ec/productos/rodillo-quita-pelusa-76835/"
+  },
+  {
+    "id": "cesta-organizadora-ropa-57651",
+    "dropiId": 57651,
+    "orderCode": "NA-B7MFRS",
+    "name": "Cesta organizadora para ropa con ruedas",
+    "category": "Organización del hogar",
+    "price": 28,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-57651-1.jpg",
+      "img/dropi-oct/dropi-57651-2.jpg",
+      "img/dropi-oct/dropi-57651-3.jpg"
+    ],
+    "description": "Cesta organizadora con 4 compartimentos y ruedas; separa la ropa por color o tipo.",
+    "features": [
+      "4 compartimentos para clasificar",
+      "Estructura con ruedas giratorias",
+      "Tela resistente con asas",
+      "Ideal para ropa, juguetes y más"
+    ],
+    "availability": "Imágenes retocadas para eliminar texto publicitario del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/cesta-organizadora-ropa-57651/"
+  },
+  {
+    "id": "plancha-vapor-raf-124385",
+    "dropiId": 124385,
+    "orderCode": "NA-WSBXN2",
+    "name": "Plancha de vapor RAF",
+    "category": "Cuidado de la ropa",
+    "price": 30,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-124385-1.jpg",
+      "img/dropi-oct/dropi-124385-2.jpg",
+      "img/dropi-oct/dropi-124385-3.jpg"
+    ],
+    "description": "Plancha a vapor RAF con calentamiento rápido y selector de temperatura para todo tipo de tela.",
+    "features": [
+      "Vapor continuo",
+      "Selector de temperatura por tipo de tela",
+      "Calentamiento rápido",
+      "Incluye vaso medidor"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/plancha-vapor-raf-124385/"
+  },
+  {
+    "id": "aspiradora-inalambrica-mano-179798",
+    "dropiId": 179798,
+    "orderCode": "NA-W13SYU",
+    "name": "Aspiradora inalámbrica de mano",
+    "category": "Hogar y tecnología",
+    "price": 39,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-179798-1.jpg",
+      "img/dropi-oct/dropi-179798-2.jpg",
+      "img/dropi-oct/dropi-179798-3.jpg"
+    ],
+    "description": "Aspiradora inalámbrica de mano con accesorios; limpia auto, sofá y rincones.",
+    "features": [
+      "Succión potente 3500–5000 Pa",
+      "Batería recargable por USB",
+      "Filtro lavable",
+      "Incluye boquillas y cepillos"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/aspiradora-inalambrica-mano-179798/"
+  },
+  {
+    "id": "zapatera-plegable-6-niveles-174382",
+    "dropiId": 174382,
+    "orderCode": "NA-RIMLJS",
+    "name": "Zapatera plegable de 6 niveles",
+    "category": "Organización del hogar",
+    "price": 45,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-174382-1.jpg",
+      "img/dropi-oct/dropi-174382-2.jpg",
+      "img/dropi-oct/dropi-174382-3.jpg"
+    ],
+    "description": "Zapatera plegable vertical de 6 niveles con puertas transparentes; ahorra espacio.",
+    "features": [
+      "6 niveles con puertas transparentes",
+      "Diseño plegable que ahorra espacio",
+      "Protege del polvo",
+      "Fácil de armar sin herramientas"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/zapatera-plegable-6-niveles-174382/"
   }
 ];
 
