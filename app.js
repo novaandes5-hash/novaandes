@@ -2056,11 +2056,105 @@ const CATALOG = [
     "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
     "url": "https://novaandes.ec/productos/cepillo-giratorio-9en1-112421/"
   }
+,
+{
+    "id": "dispensador-huevos-104318",
+    "orderCode": "NA-Z9XQAB",
+    "name": "Dispensador de huevos",
+    "category": "Cocina",
+    "price": 24,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-104318-1.jpg",
+      "img/dropi-oct/dropi-104318-2.jpg",
+      "img/dropi-oct/dropi-104318-3.webp"
+    ],
+    "description": "Dispensador organizador de huevos con doble cajón deslizable: ahorra espacio en el refrigerador y mantiene los huevos ordenados y siempre visibles.",
+    "features": [
+      "Doble cajón deslizable para huevos",
+      "Ahorra espacio en el refrigerador",
+      "Huevos ordenados y siempre visibles",
+      "Material resistente y fácil de limpiar",
+      "Ideal para cocina y organización"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/dispensador-huevos-104318/"
+  },
+{
+    "id": "mesa-auxiliar-3-niveles-171999",
+    "orderCode": "NA-GNV9EH",
+    "name": "Mesa auxiliar de 3 niveles con ruedas",
+    "category": "Organización del hogar",
+    "price": 39,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-171999-1.jpg",
+      "img/dropi-oct/dropi-171999-2.webp",
+      "img/dropi-oct/dropi-171999-3.jpg"
+    ],
+    "description": "Mesa auxiliar de 3 niveles con ruedas: estructura metálica con repisas estilo madera, perfecta para cocina, baño o dormitorio.",
+    "features": [
+      "3 niveles amplios de almacenamiento",
+      "Ruedas para moverla con facilidad",
+      "Estructura metálica resistente",
+      "Repisas estilo madera elegante",
+      "Ideal para cocina, baño o dormitorio"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/mesa-auxiliar-3-niveles-171999/"
+  },
+{
+    "id": "juego-cuchillos-6-piezas-102353",
+    "orderCode": "NA-2QAUWL",
+    "name": "Juego de cuchillos de 6 piezas",
+    "category": "Cocina",
+    "price": 22,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-102353-1.jpg",
+      "img/dropi-oct/dropi-102353-2.jpg",
+      "img/dropi-oct/dropi-102353-3.jpg"
+    ],
+    "description": "Juego de 6 piezas en colores pastel: 4 cuchillos de acero inoxidable con filo corrugado, más tijera de cocina y pelador cerámico, en caja de presentación.",
+    "features": [
+      "6 piezas: 4 cuchillos + tijera + pelador",
+      "Hojas de acero inoxidable",
+      "Filo corrugado antiadherente",
+      "Mangos ergonómicos en colores pastel",
+      "Caja de presentación incluida"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/juego-cuchillos-6-piezas-102353/"
+  }
 ];
 
 // Verified gallery overrides. Every image below matches the same catalog item;
 // no related-product or abstract imagery.
 const VERIFIED_GALLERIES = {
+  "juego-cuchillos-6-piezas-102353": [
+    "img/dropi-oct/dropi-102353-1.jpg",
+    "img/dropi-oct/dropi-102353-2.jpg",
+    "img/dropi-oct/dropi-102353-3.jpg"
+  ],
+  "mesa-auxiliar-3-niveles-171999": [
+    "img/dropi-oct/dropi-171999-1.jpg",
+    "img/dropi-oct/dropi-171999-2.webp",
+    "img/dropi-oct/dropi-171999-3.jpg"
+  ],
+  "dispensador-huevos-104318": [
+    "img/dropi-oct/dropi-104318-1.jpg",
+    "img/dropi-oct/dropi-104318-2.jpg",
+    "img/dropi-oct/dropi-104318-3.webp"
+  ],
   "sarten-coreano-121419": [
     "img/dropi-121419-clean-1.png",
     "img/dropi-121419-2.jpg",

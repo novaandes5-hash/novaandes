@@ -814,7 +814,7 @@
     <id>licuadora-mano-4en1-153287</id>
     <title>Licuadora de mano 4 en 1</title>
     <link>https://novaandes.ec/productos/licuadora-mano-4en1-153287/</link>
-    <image>https://novaandes.ec/img/dropi-oct/dropi-153287-1.jpg</image>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-153287-2.png</image>
     <price>49.00 USD</price>
     <category>Cocina</category>
     <description>Licuadora de mano 4 en 1 con motor de alta potencia, velocidad variable y turbo: licúa, pica y bate con un solo equipo.</description>
@@ -848,6 +848,36 @@
     <price>29.00 USD</price>
     <category>Limpieza</category>
     <description>Kit de limpieza con cepillo giratorio y 9 cabezales intercambiables para azulejos, bañeras, cocinas, vidrios y esquinas.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>dispensador-huevos-104318</id>
+    <title>Dispensador de huevos</title>
+    <link>https://novaandes.ec/productos/dispensador-huevos-104318/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-104318-1.jpg</image>
+    <price>24.00 USD</price>
+    <category>Cocina</category>
+    <description>Dispensador organizador de huevos con doble cajón deslizable: ahorra espacio en el refrigerador y mantiene los huevos ordenados y siempre visibles.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>mesa-auxiliar-3-niveles-171999</id>
+    <title>Mesa auxiliar de 3 niveles con ruedas</title>
+    <link>https://novaandes.ec/productos/mesa-auxiliar-3-niveles-171999/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-171999-1.jpg</image>
+    <price>39.00 USD</price>
+    <category>Organización del hogar</category>
+    <description>Mesa auxiliar de 3 niveles con ruedas: estructura metálica con repisas estilo madera, perfecta para cocina, baño o dormitorio.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>juego-cuchillos-6-piezas-102353</id>
+    <title>Juego de cuchillos de 6 piezas</title>
+    <link>https://novaandes.ec/productos/juego-cuchillos-6-piezas-102353/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-102353-1.jpg</image>
+    <price>22.00 USD</price>
+    <category>Cocina</category>
+    <description>Juego de 6 piezas en colores pastel: 4 cuchillos de acero inoxidable con filo corrugado, más tijera de cocina y pelador cerámico, en caja de presentación.</description>
     <availability>in_stock</availability>
   </product>
 </products>
