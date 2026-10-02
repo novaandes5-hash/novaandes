@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:22:10.492Z",
+  "generatedAt": "2026-10-02T00:25:21.368Z",
   "currency": "USD",
   "productCount": 93,
   "products": [
@@ -1839,9 +1839,8 @@
       "retailApproved": true,
       "shipping": "Envío incluido, sujeto a cobertura",
       "images": [
-        "https://novaandes.ec/img/dropi-oct/dropi-174911-1.jpg",
-        "https://novaandes.ec/img/dropi-oct/dropi-174911-2.png",
-        "https://novaandes.ec/img/dropi-oct/dropi-174911-3.png"
+        "https://novaandes.ec/img/dropi-oct/dropi-174911-3.png",
+        "https://novaandes.ec/img/dropi-oct/dropi-174911-2.png"
       ],
       "description": "Spray sellador de fórmula de caucho líquido que impermeabiliza y sella filtraciones en múltiples superficies.",
       "features": [

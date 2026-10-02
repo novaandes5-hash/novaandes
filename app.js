@@ -1882,9 +1882,8 @@ const CATALOG = [
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
-      "img/dropi-oct/dropi-174911-1.jpg",
-      "img/dropi-oct/dropi-174911-2.png",
-      "img/dropi-oct/dropi-174911-3.png"
+      "img/dropi-oct/dropi-174911-3.png",
+      "img/dropi-oct/dropi-174911-2.png"
     ],
     "description": "Spray sellador de fórmula de caucho líquido que impermeabiliza y sella filtraciones en múltiples superficies.",
     "features": [
