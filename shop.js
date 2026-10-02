@@ -23,7 +23,7 @@
   }
   function money(n) { return '$' + n; }
   function dropiRef(p) {
-    return p.dropiId ? 'Dropi: ' + p.dropiId : p.id;
+    return p.dropiId ? String(p.dropiId) : p.id;
   }
   function galleryOf(p) {
     var g = GALLERIES[p.id];
