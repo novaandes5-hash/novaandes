@@ -256,11 +256,13 @@ const CATALOG = [
     "category": "Organización del hogar",
     "price": 27,
     "currency": "USD",
-    "status": "draft",
+    "status": "published",
     "retailApproved": true,
     "shipping": "Envío incluido, sujeto a cobertura",
     "images": [
-      "img/fundas-156292.jpg"
+      "img/dropi-oct/dropi-156292-clean-1.jpg",
+      "img/dropi-oct/dropi-156292-clean-2.jpg",
+      "img/dropi-oct/dropi-156292-clean-3.jpg"
     ],
     "description": "Cubre prendas colgadas y mantén el clóset visualmente ordenado con fundas translúcidas.",
     "features": [

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-02T00:30:44.455Z",
+  "generatedAt": "2026-10-02T00:55:23.036Z",
   "currency": "USD",
-  "productCount": 88,
+  "productCount": 89,
   "products": [
     {
       "id": "linterna-tactica-152234",
@@ -202,6 +202,31 @@
       ],
       "availability": "La primera foto es del proveedor sin publicidad de KAY-IMPORTS; las imágenes adicionales son recreaciones de referencia. Confirmamos diámetro, material, compatibilidad, variante y existencias antes del pedido.",
       "url": "https://novaandes.ec/productos/sarten-coreano-121419/"
+    },
+    {
+      "id": "fundas-ropa-156292",
+      "orderCode": "NA-0OF8945",
+      "name": "Fundas para ropa 60 × 120 cm · 10 unidades",
+      "category": "Organización del hogar",
+      "price": 27,
+      "currency": "USD",
+      "status": "published",
+      "retailApproved": true,
+      "shipping": "Envío incluido, sujeto a cobertura",
+      "images": [
+        "https://novaandes.ec/img/dropi-oct/dropi-156292-clean-1.jpg",
+        "https://novaandes.ec/img/dropi-oct/dropi-156292-clean-2.jpg",
+        "https://novaandes.ec/img/dropi-oct/dropi-156292-clean-3.jpg"
+      ],
+      "description": "Cubre prendas colgadas y mantén el clóset visualmente ordenado con fundas translúcidas.",
+      "features": [
+        "Paquete de 10 fundas",
+        "Medida anunciada: 60 × 120 cm",
+        "Cierre frontal",
+        "Ropa y perchas no incluidas"
+      ],
+      "availability": "Confirmamos existencias antes del pedido. Fotos del proveedor; comprueba las medidas de tus prendas.",
+      "url": "https://novaandes.ec/productos/fundas-ropa-156292/"
     },
     {
       "id": "pinzas-recipientes-134253",
