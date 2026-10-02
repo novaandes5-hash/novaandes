@@ -22,6 +22,9 @@
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
   function money(n) { return '$' + n; }
+  function dropiRef(p) {
+    return p.dropiId ? 'Dropi: ' + p.dropiId : p.id;
+  }
   function galleryOf(p) {
     var g = GALLERIES[p.id];
     if (g && g.length) return g;
@@ -223,7 +226,7 @@
       if (cityError) cityError.hidden = true;
       var lines = ids.map(function (id) {
         var p = byId[id];
-        return '• ' + p.name + ' x' + cart[id] + ' — $' + (p.price * cart[id]);
+        return '• ' + p.name + ' x' + cart[id] + ' — $' + (p.price * cart[id]) + ' (' + dropiRef(p) + ')';
       });
       var msg = 'Hola NovaAndes, quiero hacer un pedido:\n' + lines.join('\n') +
         '\nSubtotal: $' + cartSubtotal() + '\nCiudad: ' + city;
@@ -244,7 +247,7 @@
         imgTag(src, p.name + ' — foto ' + (i + 1), false) + '</button>';
     }).join('');
     var feats = (p.features || []).map(function (f) { return '<li>' + esc(f) + '</li>'; }).join('');
-    var waText = 'Hola NovaAndes, quiero el producto: ' + p.name + ' (' + p.id + ')';
+    var waText = 'Hola NovaAndes, quiero el producto: ' + p.name + ' (' + dropiRef(p) + ')';
     return '<nav class="breadcrumb"><a href="#inicio">Inicio</a> / ' +
       '<a href="#catalogo">' + esc(p.category || 'Catálogo') + '</a> / ' + esc(p.name) + '</nav>' +
       '<div class="detail-grid"><div>' +

@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-02T00:55:23.036Z",
+  "generatedAt": "2026-10-02T02:20:05.141Z",
   "currency": "USD",
   "productCount": 89,
   "products": [
     {
       "id": "linterna-tactica-152234",
       "orderCode": "NA-1U7ANP6",
+      "dropiId": 152234,
       "name": "Linterna táctica recargable",
       "category": "Hogar y herramientas",
       "price": 24,
@@ -31,6 +32,7 @@
     {
       "id": "respaldo-silla-180745",
       "orderCode": "NA-1AM3JDZ",
+      "dropiId": 180745,
       "name": "Soporte ergonómico de espalda para silla",
       "category": "Organización personal",
       "price": 31,
@@ -56,6 +58,7 @@
     {
       "id": "cafetera-107346",
       "orderCode": "NA-1A0TDWC",
+      "dropiId": 107346,
       "name": "Cafetera de filtro Sokany",
       "category": "Cocina",
       "price": 39,
@@ -81,6 +84,7 @@
     {
       "id": "robot-trapeador-159921",
       "orderCode": "NA-17VKTP2",
+      "dropiId": 159921,
       "name": "Robot trapeador recargable",
       "category": "Limpieza",
       "price": 30,
@@ -106,6 +110,7 @@
     {
       "id": "cepillo-mascotas-73302",
       "orderCode": "NA-18U4Q3D",
+      "dropiId": 73302,
       "name": "Cepillo con vapor para mascotas",
       "category": "Mascotas",
       "price": 22,
@@ -131,6 +136,7 @@
     {
       "id": "picador-3-litros-112193",
       "orderCode": "NA-0LBKL0V",
+      "dropiId": 112193,
       "name": "Picador triturador eléctrico de 3 litros",
       "category": "Cocina",
       "price": 35,
@@ -156,6 +162,7 @@
     {
       "id": "foco-ventilador-103380",
       "orderCode": "NA-04298VV",
+      "dropiId": 103380,
       "name": "Foco con ventilador plegable y control",
       "category": "Iluminación y decoración",
       "price": 29,
@@ -181,6 +188,7 @@
     {
       "id": "sarten-coreano-121419",
       "orderCode": "NA-0RAY6N7",
+      "dropiId": 121419,
       "name": "Sartén coreano antiadherente",
       "category": "Cocina",
       "price": 26,
@@ -206,6 +214,7 @@
     {
       "id": "fundas-ropa-156292",
       "orderCode": "NA-0OF8945",
+      "dropiId": 156292,
       "name": "Fundas para ropa 60 × 120 cm · 10 unidades",
       "category": "Organización del hogar",
       "price": 27,
@@ -231,6 +240,7 @@
     {
       "id": "pinzas-recipientes-134253",
       "orderCode": "NA-1YA0141",
+      "dropiId": 134253,
       "name": "Pinzas para sujetar recipientes · 3 unidades",
       "category": "Cocina",
       "price": 22,
@@ -253,6 +263,7 @@
     {
       "id": "bolsa-almuerzo-179779",
       "orderCode": "NA-1FS1WED",
+      "dropiId": 179779,
       "name": "Bolsa para almuerzo de doble compartimento · negra",
       "category": "Organización personal",
       "price": 25,
@@ -276,6 +287,7 @@
     {
       "id": "estante-4-niveles-186057",
       "orderCode": "NA-1074XK9",
+      "dropiId": 186057,
       "name": "Carrito organizador de 4 niveles en tonos pastel",
       "category": "Organización del hogar",
       "price": 32,
@@ -299,6 +311,7 @@
     {
       "id": "soporte-silicona-155281",
       "orderCode": "NA-0DTA817",
+      "dropiId": 155281,
       "name": "Soporte flexible de silicona para celular",
       "category": "Accesorios de tecnología",
       "price": 21,
@@ -321,6 +334,7 @@
     {
       "id": "recipiente-4-divisiones-179223",
       "orderCode": "NA-01Z2P0L",
+      "dropiId": 179223,
       "name": "Recipiente con 4 compartimentos 24 × 15 × 7 cm",
       "category": "Cocina",
       "price": 22,
@@ -344,6 +358,7 @@
     {
       "id": "soporte-botellon-135937",
       "orderCode": "NA-1HUEQ1Y",
+      "dropiId": 135937,
       "name": "Soporte metálico para botellón de agua",
       "category": "Cocina",
       "price": 23,
@@ -366,6 +381,7 @@
     {
       "id": "cajones-refrigerador-144342",
       "orderCode": "NA-03WWOH2",
+      "dropiId": 144342,
       "name": "Organizadores transparentes para refrigerador · 3 piezas",
       "category": "Cocina",
       "price": 28,
@@ -388,6 +404,7 @@
     {
       "id": "dispensador-cepillos-159133",
       "orderCode": "NA-11G5KB8",
+      "dropiId": 159133,
       "name": "Dispensador de pasta y portacepillos",
       "category": "Organización del hogar",
       "price": 24,
@@ -411,6 +428,7 @@
     {
       "id": "moldes-corazon-17706",
       "orderCode": "NA-0II6UY8",
+      "dropiId": 17706,
       "name": "Moldes desmontables de corazón · 6 piezas",
       "category": "Cocina",
       "price": 30,
@@ -433,6 +451,7 @@
     {
       "id": "elevador-colchon-146193",
       "orderCode": "NA-1M0IPCH",
+      "dropiId": 146193,
       "name": "Cuña elevadora de colchón",
       "category": "Hogar y herramientas",
       "price": 21,
@@ -455,6 +474,7 @@
     {
       "id": "ablandador-carne-177071",
       "orderCode": "NA-0X1TXLN",
+      "dropiId": 177071,
       "name": "Ablandador manual de carne",
       "category": "Cocina",
       "price": 24,
@@ -478,6 +498,7 @@
     {
       "id": "rama-hojas-130485",
       "orderCode": "NA-1KKNMRQ",
+      "dropiId": 130485,
       "name": "Rama decorativa de hojas artificiales",
       "category": "Iluminación y decoración",
       "price": 23,
@@ -500,6 +521,7 @@
     {
       "id": "proyector-estrellas-120580",
       "orderCode": "NA-1VD5NIN",
+      "dropiId": 120580,
       "name": "Lámpara proyectora de estrellas",
       "category": "Iluminación y decoración",
       "price": 23,
@@ -523,6 +545,7 @@
     {
       "id": "huevera-4-niveles-187741",
       "orderCode": "NA-1I14EOC",
+      "dropiId": 187741,
       "name": "Organizador de huevos de 4 niveles",
       "category": "Cocina",
       "price": 20,
@@ -545,6 +568,7 @@
     {
       "id": "cesto-retractil-166976",
       "orderCode": "NA-0NVNKF6",
+      "dropiId": 166976,
       "name": "Cesto de basura retráctil para colgar",
       "category": "Limpieza",
       "price": 24,
@@ -567,6 +591,7 @@
     {
       "id": "base-movible-121198",
       "orderCode": "NA-1BNI0CY",
+      "dropiId": 121198,
       "name": "Base ajustable con ruedas para electrodomésticos",
       "category": "Hogar y herramientas",
       "price": 29,
@@ -589,6 +614,7 @@
     {
       "id": "destornillador-8-en-1-120449",
       "orderCode": "NA-051TGWL",
+      "dropiId": 120449,
       "name": "Destornillador portátil 8 en 1",
       "category": "Hogar y herramientas",
       "price": 21,
@@ -611,6 +637,7 @@
     {
       "id": "soportes-antivibracion-79316",
       "orderCode": "NA-15NMSBJ",
+      "dropiId": 79316,
       "name": "Soportes para lavadora · 4 piezas",
       "category": "Hogar y herramientas",
       "price": 19,
@@ -633,6 +660,7 @@
     {
       "id": "organizadores-interior-105395",
       "orderCode": "NA-0XTBU1S",
+      "dropiId": 105395,
       "name": "Set organizador para ropa interior",
       "category": "Organización del hogar",
       "price": 24,
@@ -655,6 +683,7 @@
     {
       "id": "trapeador-spray-185010",
       "orderCode": "NA-0AYAZ31",
+      "dropiId": 185010,
       "name": "Trapeador con rociador y cabezal de 40 cm",
       "category": "Limpieza",
       "price": 25,
@@ -677,6 +706,7 @@
     {
       "id": "tabla-acero-179773",
       "orderCode": "NA-1P7P5XJ",
+      "dropiId": 179773,
       "name": "Tabla de picar de acero inoxidable 20 × 30 cm",
       "category": "Cocina",
       "price": 27,
@@ -699,6 +729,7 @@
     {
       "id": "soporte-cuello-127888",
       "orderCode": "NA-1LEE3X1",
+      "dropiId": 127888,
       "name": "Soporte flexible de cuello para celular",
       "category": "Accesorios de tecnología",
       "price": 27,
@@ -722,6 +753,7 @@
     {
       "id": "armario-bano-142391",
       "orderCode": "NA-1V9A8EI",
+      "dropiId": 142391,
       "name": "Armario de baño con estantes y dos puertas",
       "category": "Organización del hogar",
       "price": 41,
@@ -745,6 +777,7 @@
     {
       "id": "humidificador-jarron-112438",
       "orderCode": "NA-02T9OFU",
+      "dropiId": 112438,
       "name": "Humidificador decorativo tipo jarrón",
       "category": "Iluminación y decoración",
       "price": 25,
@@ -767,6 +800,7 @@
     {
       "id": "condimentos-172007",
       "orderCode": "NA-16C6M76",
+      "dropiId": 172007,
       "name": "Organizador de condimentos de 4 divisiones",
       "category": "Cocina",
       "price": 22,
@@ -789,6 +823,7 @@
     {
       "id": "soporte-cocina-139871",
       "orderCode": "NA-0TNK0Y5",
+      "dropiId": 139871,
       "name": "Soporte organizador para utensilios de cocina",
       "category": "Cocina",
       "price": 21,
@@ -811,6 +846,7 @@
     {
       "id": "sacacorchos-estuche-103002",
       "orderCode": "NA-1K5TID7",
+      "dropiId": 103002,
       "name": "Set sacacorchos con estuche",
       "category": "Cocina",
       "price": 25,
@@ -834,6 +870,7 @@
     {
       "id": "organizador-bano-175594",
       "orderCode": "NA-16AL0XM",
+      "dropiId": 175594,
       "name": "Mueble organizador estrecho para baño",
       "category": "Organización del hogar",
       "price": 33,
@@ -856,6 +893,7 @@
     {
       "id": "manguera-expandible-98312",
       "orderCode": "NA-0JJWP5Q",
+      "dropiId": 98312,
       "name": "Manguera expandible de 15 metros",
       "category": "Jardín",
       "price": 21,
@@ -878,6 +916,7 @@
     {
       "id": "estante-cocina-130481",
       "orderCode": "NA-1J1AWC3",
+      "dropiId": 130481,
       "name": "Estante de cocina con gabinete superior",
       "category": "Organización del hogar",
       "price": 58,
@@ -901,6 +940,7 @@
     {
       "id": "libreta-ahorro-185925",
       "orderCode": "NA-0INK1GN",
+      "dropiId": 185925,
       "name": "Carpeta de ahorro con 100 sobres",
       "category": "Organización personal",
       "price": 24,
@@ -924,6 +964,7 @@
     {
       "id": "perchero-ropa-zapatos-124933",
       "orderCode": "NA-0LN7MTQ",
+      "dropiId": 124933,
       "name": "Perchero organizador para ropa y zapatos",
       "category": "Organización del hogar",
       "price": 33,
@@ -947,6 +988,7 @@
     {
       "id": "contenedor-arroz-104653",
       "orderCode": "NA-1RK0H4B",
+      "dropiId": 104653,
       "name": "Contenedor rectangular para arroz",
       "category": "Cocina",
       "price": 33,
@@ -969,6 +1011,7 @@
     {
       "id": "aspersor-circular-123285",
       "orderCode": "NA-0XROT0O",
+      "dropiId": 123285,
       "name": "Aspersor circular para jardín",
       "category": "Jardín",
       "price": 19,
@@ -992,6 +1035,7 @@
     {
       "id": "cosmetiquera-espejo-led-136321",
       "orderCode": "NA-071XQQB",
+      "dropiId": 136321,
       "name": "Cosmetiquera con espejo y luz LED",
       "category": "Organización personal",
       "price": 29,
@@ -1015,6 +1059,7 @@
     {
       "id": "fundas-empaque-100-98571",
       "orderCode": "NA-1NLR87I",
+      "dropiId": 98571,
       "name": "Fundas de empaque 15 × 25 cm · 100 unidades",
       "category": "Organización del hogar",
       "price": 33,
@@ -1038,6 +1083,7 @@
     {
       "id": "cortina-led-multicolor-187639",
       "orderCode": "NA-1OEO1N7",
+      "dropiId": 187639,
       "name": "Cortina de luces LED multicolor 3 × 3 m",
       "category": "Iluminación y decoración",
       "price": 22,
@@ -1061,6 +1107,7 @@
     {
       "id": "lupa-led-82759",
       "orderCode": "NA-1XYWVY9",
+      "dropiId": 82759,
       "name": "Lupa de mano con luz LED",
       "category": "Hogar y herramientas",
       "price": 23,
@@ -1084,6 +1131,7 @@
     {
       "id": "organizador-closet-viaje",
       "orderCode": "NA-0EP19R0",
+      "dropiId": 56297,
       "name": "Organizador plegable de clóset y viaje",
       "category": "Organización del hogar",
       "price": 28,
@@ -1109,6 +1157,7 @@
     {
       "id": "organizador-40-bolsillos",
       "orderCode": "NA-0Y4ZD1Q",
+      "dropiId": 185433,
       "name": "Organizador colgante de 40 bolsillos",
       "category": "Organización del hogar",
       "price": 26,
@@ -1133,6 +1182,7 @@
     {
       "id": "organizador-huevos-nevera",
       "orderCode": "NA-1FNKMR0",
+      "dropiId": 185354,
       "name": "Caja organizadora de huevos",
       "category": "Cocina",
       "price": 22,
@@ -1182,6 +1232,7 @@
     {
       "id": "linterna-led-6-en-1",
       "orderCode": "NA-1JVT20T",
+      "dropiId": 1,
       "name": "Linterna LED 6 en 1",
       "category": "Hogar y herramientas",
       "price": 21,
@@ -1205,6 +1256,7 @@
     },
     {
       "id": "calculadora-cientifica-152547",
+      "dropiId": 152547,
       "name": "Calculadora científica avanzada",
       "category": "Oficina y estudio",
       "price": 30,
@@ -1227,6 +1279,7 @@
     },
     {
       "id": "camara-dvr-auto-185350",
+      "dropiId": 185350,
       "name": "Cámara DVR para automóvil",
       "category": "Auto y viaje",
       "price": 39,
@@ -1250,6 +1303,7 @@
     },
     {
       "id": "cable-usbc-base-143614",
+      "dropiId": 143614,
       "name": "Cable USB-C trenzado con base organizadora",
       "category": "Accesorios de tecnología",
       "price": 20,
@@ -1276,6 +1330,7 @@
     },
     {
       "id": "freidora-aire-6l-140099",
+      "dropiId": 140099,
       "name": "Freidora de aire digital de 6 litros",
       "category": "Cocina",
       "price": 59,
@@ -1301,6 +1356,7 @@
     },
     {
       "id": "cocineta-gas-2-quemadores-188914",
+      "dropiId": 188914,
       "name": "Cocineta a gas de 2 quemadores",
       "category": "Cocina",
       "price": 45,
@@ -1325,6 +1381,7 @@
     },
     {
       "id": "libro-interactivo-bilingue-123745",
+      "dropiId": 123745,
       "name": "Libro interactivo bilingüe español–inglés",
       "category": "Oficina y estudio",
       "price": 24,
@@ -1349,6 +1406,7 @@
     },
     {
       "id": "cargador-inalambrico-3en1-188909",
+      "dropiId": 188909,
       "name": "Estación de carga inalámbrica 3 en 1",
       "category": "Accesorios de tecnología",
       "price": 34,
@@ -1374,6 +1432,7 @@
     {
       "id": "cuadernos-escritura-magica-85475",
       "orderCode": "NA-0D8T463",
+      "dropiId": 85475,
       "name": "Cuadernos reutilizables de escritura · 4 unidades",
       "category": "Oficina y estudio",
       "price": 19,
@@ -1397,6 +1456,7 @@
     {
       "id": "plancha-vapor-portatil-82369",
       "orderCode": "NA-1DQPGPM",
+      "dropiId": 82369,
       "name": "Plancha de vapor portátil para ropa",
       "category": "Cuidado de la ropa",
       "price": 30,
@@ -1420,6 +1480,7 @@
     {
       "id": "bolsa-almacenamiento-179218",
       "orderCode": "NA-1GPIVI4",
+      "dropiId": 179218,
       "name": "Bolsa ecológica de almacenamiento",
       "category": "Organización del hogar",
       "price": 22,
@@ -1443,6 +1504,7 @@
     {
       "id": "ventilador-recargable-super-161274",
       "orderCode": "NA-1VW3CLQ",
+      "dropiId": 161274,
       "name": "Ventilador recargable de mesa",
       "category": "Hogar y tecnología",
       "price": 29,
@@ -1466,6 +1528,7 @@
     {
       "id": "base-refrigerante-laptop-108627",
       "orderCode": "NA-0K7YCT7",
+      "dropiId": 108627,
       "name": "Base refrigerante para laptop",
       "category": "Accesorios de tecnología",
       "price": 30,
@@ -1489,6 +1552,7 @@
     {
       "id": "repetidor-wifi-139834",
       "orderCode": "NA-187HBIQ",
+      "dropiId": 139834,
       "name": "Repetidor amplificador de señal Wi‑Fi",
       "category": "Accesorios de tecnología",
       "price": 32,
@@ -1512,6 +1576,7 @@
     {
       "id": "mini-proyector-bolsillo-83973",
       "orderCode": "NA-1NUPJ8I",
+      "dropiId": 83973,
       "name": "Mini proyector de bolsillo",
       "category": "Entretenimiento",
       "price": 49,
@@ -1535,6 +1600,7 @@
     {
       "id": "fuente-agua-mascotas-97230",
       "orderCode": "NA-PET-FNT-001",
+      "dropiId": 97230,
       "name": "Fuente eléctrica de agua para mascotas · 2 litros",
       "category": "Mascotas",
       "price": 35,
@@ -1561,6 +1627,7 @@
     {
       "id": "audifonos-inalambricos-m27-60739",
       "orderCode": "NA-098FU55",
+      "dropiId": 60739,
       "name": "Audífonos inalámbricos M27",
       "category": "Accesorios de tecnología",
       "price": 30,
@@ -1610,6 +1677,7 @@
     {
       "id": "ropero-closet-3-cuerpos-86793",
       "orderCode": "NA-0WYA3CT",
+      "dropiId": 86793,
       "name": "Ropero clóset de 3 cuerpos con forro",
       "category": "Organización del hogar",
       "price": 32,
@@ -1635,6 +1703,7 @@
     {
       "id": "rodillera-unidad-158443",
       "orderCode": "NA-1K8IEP1",
+      "dropiId": 158443,
       "name": "Rodillera ajustable · 1 unidad",
       "category": "Organización personal",
       "price": 21,
@@ -1660,6 +1729,7 @@
     {
       "id": "cocina-gas-portatil-191178",
       "orderCode": "NA-MC5HTA",
+      "dropiId": 191178,
       "name": "Cocina de gas portátil para camping",
       "category": "Auto y viaje",
       "price": 39,
@@ -1686,6 +1756,7 @@
     {
       "id": "batidor-mano-42608",
       "orderCode": "NA-VGG7Y8",
+      "dropiId": 42608,
       "name": "Batidor de mano de acero inoxidable",
       "category": "Cocina",
       "price": 24,
@@ -1712,6 +1783,7 @@
     {
       "id": "limpia-vasos-presion-267",
       "orderCode": "NA-CKFWVK",
+      "dropiId": 267,
       "name": "Lavavasos a presión para fregadero",
       "category": "Cocina",
       "price": 24,
@@ -1737,6 +1809,7 @@
     {
       "id": "spray-sellador-174911",
       "orderCode": "NA-BG8SYS",
+      "dropiId": 174911,
       "name": "Spray sellador impermeable",
       "category": "Hogar y herramientas",
       "price": 21,
@@ -1762,6 +1835,7 @@
     {
       "id": "dispensador-arroz-144708",
       "orderCode": "NA-2K3KFG",
+      "dropiId": 144708,
       "name": "Dispensador de arroz con dosificador",
       "category": "Cocina",
       "price": 30,
@@ -1788,6 +1862,7 @@
     {
       "id": "cepillo-dental-electrico-185071",
       "orderCode": "NA-BVQG2N",
+      "dropiId": 185071,
       "name": "Cepillo dental eléctrico recargable",
       "category": "Organización personal",
       "price": 19,
@@ -1815,6 +1890,7 @@
     {
       "id": "licuadora-mano-4en1-153287",
       "orderCode": "NA-859BXN",
+      "dropiId": 153287,
       "name": "Licuadora de mano 4 en 1",
       "category": "Cocina",
       "price": 49,
@@ -1842,6 +1918,7 @@
     {
       "id": "platera-vitrina-45340",
       "orderCode": "NA-YTNCMD",
+      "dropiId": 45340,
       "name": "Platera con vitrina protectora",
       "category": "Cocina",
       "price": 39,
@@ -1869,6 +1946,7 @@
     {
       "id": "taladro-2-baterias-124438",
       "orderCode": "NA-CL8A6H",
+      "dropiId": 124438,
       "name": "Taladro con 2 baterías recargables",
       "category": "Hogar y herramientas",
       "price": 49,
@@ -1895,6 +1973,7 @@
     {
       "id": "cepillo-giratorio-9en1-112421",
       "orderCode": "NA-GYNLYA",
+      "dropiId": 112421,
       "name": "Cepillo giratorio de limpieza 9 en 1",
       "category": "Limpieza",
       "price": 29,
@@ -1920,6 +1999,7 @@
     {
       "id": "dispensador-huevos-104318",
       "orderCode": "NA-Z9XQAB",
+      "dropiId": 104318,
       "name": "Dispensador de huevos",
       "category": "Cocina",
       "price": 24,
@@ -1946,6 +2026,7 @@
     {
       "id": "mesa-auxiliar-3-niveles-171999",
       "orderCode": "NA-GNV9EH",
+      "dropiId": 171999,
       "name": "Mesa auxiliar de 3 niveles con ruedas",
       "category": "Organización del hogar",
       "price": 39,
@@ -1972,6 +2053,7 @@
     {
       "id": "juego-cuchillos-6-piezas-102353",
       "orderCode": "NA-2QAUWL",
+      "dropiId": 102353,
       "name": "Juego de cuchillos de 6 piezas",
       "category": "Cocina",
       "price": 22,
@@ -1998,6 +2080,7 @@
     {
       "id": "termometro-cocina-33165",
       "orderCode": "NA-CD6Q3P",
+      "dropiId": 33165,
       "name": "Termómetro digital de cocina",
       "category": "Cocina",
       "price": 22,
@@ -2024,6 +2107,7 @@
     {
       "id": "tubo-expandible-172750",
       "orderCode": "NA-EF7BYT",
+      "dropiId": 172750,
       "name": "Tubo expandible multiuso",
       "category": "Organización del hogar",
       "price": 23,
@@ -2050,6 +2134,7 @@
     {
       "id": "platera-cocina-dos-pozos-14520",
       "orderCode": "NA-QSJ968",
+      "dropiId": 14520,
       "name": "Platera de cocina de dos niveles",
       "category": "Cocina",
       "price": 34,
@@ -2076,6 +2161,7 @@
     {
       "id": "porta-utensilios-giratorio-189359",
       "orderCode": "NA-6FARCN",
+      "dropiId": 189359,
       "name": "Porta utensilios giratorio",
       "category": "Cocina",
       "price": 20,
@@ -2102,6 +2188,7 @@
     {
       "id": "utensilios-cocina-20-piezas-137448",
       "orderCode": "NA-G3LN62",
+      "dropiId": 137448,
       "name": "Set de utensilios de cocina · 20 piezas",
       "category": "Cocina",
       "price": 32,

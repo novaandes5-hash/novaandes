@@ -4,6 +4,7 @@
 const CATALOG = [
   {
     "id": "linterna-tactica-152234",
+    "dropiId": 152234,
     "orderCode": "NA-1U7ANP6",
     "name": "Linterna táctica recargable",
     "category": "Hogar y herramientas",
@@ -29,6 +30,7 @@ const CATALOG = [
   },
   {
     "id": "respaldo-silla-180745",
+    "dropiId": 180745,
     "orderCode": "NA-1AM3JDZ",
     "name": "Soporte ergonómico de espalda para silla",
     "category": "Organización personal",
@@ -54,6 +56,7 @@ const CATALOG = [
   },
   {
     "id": "cafetera-107346",
+    "dropiId": 107346,
     "orderCode": "NA-1A0TDWC",
     "name": "Cafetera de filtro Sokany",
     "category": "Cocina",
@@ -79,6 +82,7 @@ const CATALOG = [
   },
   {
     "id": "picador-109695",
+    "dropiId": 109695,
     "name": "Picador eléctrico multifuncional",
     "category": "Cocina",
     "price": 25,
@@ -101,6 +105,7 @@ const CATALOG = [
   },
   {
     "id": "robot-trapeador-159921",
+    "dropiId": 159921,
     "orderCode": "NA-17VKTP2",
     "name": "Robot trapeador recargable",
     "category": "Limpieza",
@@ -126,6 +131,7 @@ const CATALOG = [
   },
   {
     "id": "cepillo-mascotas-73302",
+    "dropiId": 73302,
     "orderCode": "NA-18U4Q3D",
     "name": "Cepillo con vapor para mascotas",
     "category": "Mascotas",
@@ -151,6 +157,7 @@ const CATALOG = [
   },
   {
     "id": "fundas-zapatos-149004",
+    "dropiId": 149004,
     "orderCode": "NA-0NWE52A",
     "name": "Fundas impermeables de silicona para zapatos",
     "category": "Auto y viaje",
@@ -176,6 +183,7 @@ const CATALOG = [
   },
   {
     "id": "picador-3-litros-112193",
+    "dropiId": 112193,
     "orderCode": "NA-0LBKL0V",
     "name": "Picador triturador eléctrico de 3 litros",
     "category": "Cocina",
@@ -201,6 +209,7 @@ const CATALOG = [
   },
   {
     "id": "foco-ventilador-103380",
+    "dropiId": 103380,
     "orderCode": "NA-04298VV",
     "name": "Foco con ventilador plegable y control",
     "category": "Iluminación y decoración",
@@ -226,6 +235,7 @@ const CATALOG = [
   },
   {
     "id": "sarten-coreano-121419",
+    "dropiId": 121419,
     "orderCode": "NA-0RAY6N7",
     "name": "Sartén coreano antiadherente",
     "category": "Cocina",
@@ -251,6 +261,7 @@ const CATALOG = [
   },
   {
     "id": "fundas-ropa-156292",
+    "dropiId": 156292,
     "orderCode": "NA-0OF8945",
     "name": "Fundas para ropa 60 × 120 cm · 10 unidades",
     "category": "Organización del hogar",
@@ -276,6 +287,7 @@ const CATALOG = [
   },
   {
     "id": "pinzas-recipientes-134253",
+    "dropiId": 134253,
     "orderCode": "NA-1YA0141",
     "name": "Pinzas para sujetar recipientes · 3 unidades",
     "category": "Cocina",
@@ -298,6 +310,7 @@ const CATALOG = [
   },
   {
     "id": "bolsa-almuerzo-179779",
+    "dropiId": 179779,
     "orderCode": "NA-1FS1WED",
     "name": "Bolsa para almuerzo de doble compartimento · negra",
     "category": "Organización personal",
@@ -321,6 +334,7 @@ const CATALOG = [
   },
   {
     "id": "estante-4-niveles-186057",
+    "dropiId": 186057,
     "orderCode": "NA-1074XK9",
     "name": "Carrito organizador de 4 niveles en tonos pastel",
     "category": "Organización del hogar",
@@ -344,6 +358,7 @@ const CATALOG = [
   },
   {
     "id": "soporte-silicona-155281",
+    "dropiId": 155281,
     "orderCode": "NA-0DTA817",
     "name": "Soporte flexible de silicona para celular",
     "category": "Accesorios de tecnología",
@@ -366,6 +381,7 @@ const CATALOG = [
   },
   {
     "id": "recipiente-4-divisiones-179223",
+    "dropiId": 179223,
     "orderCode": "NA-01Z2P0L",
     "name": "Recipiente con 4 compartimentos 24 × 15 × 7 cm",
     "category": "Cocina",
@@ -389,6 +405,7 @@ const CATALOG = [
   },
   {
     "id": "soporte-botellon-135937",
+    "dropiId": 135937,
     "orderCode": "NA-1HUEQ1Y",
     "name": "Soporte metálico para botellón de agua",
     "category": "Cocina",
@@ -411,6 +428,7 @@ const CATALOG = [
   },
   {
     "id": "cajones-refrigerador-144342",
+    "dropiId": 144342,
     "orderCode": "NA-03WWOH2",
     "name": "Organizadores transparentes para refrigerador · 3 piezas",
     "category": "Cocina",
@@ -433,6 +451,7 @@ const CATALOG = [
   },
   {
     "id": "dispensador-cepillos-159133",
+    "dropiId": 159133,
     "orderCode": "NA-11G5KB8",
     "name": "Dispensador de pasta y portacepillos",
     "category": "Organización del hogar",
@@ -456,6 +475,7 @@ const CATALOG = [
   },
   {
     "id": "moldes-corazon-17706",
+    "dropiId": 17706,
     "orderCode": "NA-0II6UY8",
     "name": "Moldes desmontables de corazón · 6 piezas",
     "category": "Cocina",
@@ -478,6 +498,7 @@ const CATALOG = [
   },
   {
     "id": "elevador-colchon-146193",
+    "dropiId": 146193,
     "orderCode": "NA-1M0IPCH",
     "name": "Cuña elevadora de colchón",
     "category": "Hogar y herramientas",
@@ -500,6 +521,7 @@ const CATALOG = [
   },
   {
     "id": "ablandador-carne-177071",
+    "dropiId": 177071,
     "orderCode": "NA-0X1TXLN",
     "name": "Ablandador manual de carne",
     "category": "Cocina",
@@ -523,6 +545,7 @@ const CATALOG = [
   },
   {
     "id": "rama-hojas-130485",
+    "dropiId": 130485,
     "orderCode": "NA-1KKNMRQ",
     "name": "Rama decorativa de hojas artificiales",
     "category": "Iluminación y decoración",
@@ -545,6 +568,7 @@ const CATALOG = [
   },
   {
     "id": "proyector-estrellas-120580",
+    "dropiId": 120580,
     "orderCode": "NA-1VD5NIN",
     "name": "Lámpara proyectora de estrellas",
     "category": "Iluminación y decoración",
@@ -568,6 +592,7 @@ const CATALOG = [
   },
   {
     "id": "huevera-4-niveles-187741",
+    "dropiId": 187741,
     "orderCode": "NA-1I14EOC",
     "name": "Organizador de huevos de 4 niveles",
     "category": "Cocina",
@@ -590,6 +615,7 @@ const CATALOG = [
   },
   {
     "id": "cesto-retractil-166976",
+    "dropiId": 166976,
     "orderCode": "NA-0NVNKF6",
     "name": "Cesto de basura retráctil para colgar",
     "category": "Limpieza",
@@ -612,6 +638,7 @@ const CATALOG = [
   },
   {
     "id": "base-movible-121198",
+    "dropiId": 121198,
     "orderCode": "NA-1BNI0CY",
     "name": "Base ajustable con ruedas para electrodomésticos",
     "category": "Hogar y herramientas",
@@ -634,6 +661,7 @@ const CATALOG = [
   },
   {
     "id": "destornillador-8-en-1-120449",
+    "dropiId": 120449,
     "orderCode": "NA-051TGWL",
     "name": "Destornillador portátil 8 en 1",
     "category": "Hogar y herramientas",
@@ -656,6 +684,7 @@ const CATALOG = [
   },
   {
     "id": "soportes-antivibracion-79316",
+    "dropiId": 79316,
     "orderCode": "NA-15NMSBJ",
     "name": "Soportes para lavadora · 4 piezas",
     "category": "Hogar y herramientas",
@@ -678,6 +707,7 @@ const CATALOG = [
   },
   {
     "id": "organizadores-interior-105395",
+    "dropiId": 105395,
     "orderCode": "NA-0XTBU1S",
     "name": "Set organizador para ropa interior",
     "category": "Organización del hogar",
@@ -700,6 +730,7 @@ const CATALOG = [
   },
   {
     "id": "trapeador-spray-185010",
+    "dropiId": 185010,
     "orderCode": "NA-0AYAZ31",
     "name": "Trapeador con rociador y cabezal de 40 cm",
     "category": "Limpieza",
@@ -722,6 +753,7 @@ const CATALOG = [
   },
   {
     "id": "tabla-acero-179773",
+    "dropiId": 179773,
     "orderCode": "NA-1P7P5XJ",
     "name": "Tabla de picar de acero inoxidable 20 × 30 cm",
     "category": "Cocina",
@@ -744,6 +776,7 @@ const CATALOG = [
   },
   {
     "id": "soporte-cuello-127888",
+    "dropiId": 127888,
     "orderCode": "NA-1LEE3X1",
     "name": "Soporte flexible de cuello para celular",
     "category": "Accesorios de tecnología",
@@ -767,6 +800,7 @@ const CATALOG = [
   },
   {
     "id": "armario-bano-142391",
+    "dropiId": 142391,
     "orderCode": "NA-1V9A8EI",
     "name": "Armario de baño con estantes y dos puertas",
     "category": "Organización del hogar",
@@ -790,6 +824,7 @@ const CATALOG = [
   },
   {
     "id": "humidificador-jarron-112438",
+    "dropiId": 112438,
     "orderCode": "NA-02T9OFU",
     "name": "Humidificador decorativo tipo jarrón",
     "category": "Iluminación y decoración",
@@ -812,6 +847,7 @@ const CATALOG = [
   },
   {
     "id": "condimentos-172007",
+    "dropiId": 172007,
     "orderCode": "NA-16C6M76",
     "name": "Organizador de condimentos de 4 divisiones",
     "category": "Cocina",
@@ -834,6 +870,7 @@ const CATALOG = [
   },
   {
     "id": "soporte-cocina-139871",
+    "dropiId": 139871,
     "orderCode": "NA-0TNK0Y5",
     "name": "Soporte organizador para utensilios de cocina",
     "category": "Cocina",
@@ -856,6 +893,7 @@ const CATALOG = [
   },
   {
     "id": "sacacorchos-estuche-103002",
+    "dropiId": 103002,
     "orderCode": "NA-1K5TID7",
     "name": "Set sacacorchos con estuche",
     "category": "Cocina",
@@ -879,6 +917,7 @@ const CATALOG = [
   },
   {
     "id": "organizador-bano-175594",
+    "dropiId": 175594,
     "orderCode": "NA-16AL0XM",
     "name": "Mueble organizador estrecho para baño",
     "category": "Organización del hogar",
@@ -901,6 +940,7 @@ const CATALOG = [
   },
   {
     "id": "manguera-expandible-98312",
+    "dropiId": 98312,
     "orderCode": "NA-0JJWP5Q",
     "name": "Manguera expandible de 15 metros",
     "category": "Jardín",
@@ -923,6 +963,7 @@ const CATALOG = [
   },
   {
     "id": "estante-cocina-130481",
+    "dropiId": 130481,
     "orderCode": "NA-1J1AWC3",
     "name": "Estante de cocina con gabinete superior",
     "category": "Organización del hogar",
@@ -946,6 +987,7 @@ const CATALOG = [
   },
   {
     "id": "libreta-ahorro-185925",
+    "dropiId": 185925,
     "orderCode": "NA-0INK1GN",
     "name": "Carpeta de ahorro con 100 sobres",
     "category": "Organización personal",
@@ -969,6 +1011,7 @@ const CATALOG = [
   },
   {
     "id": "perchero-ropa-zapatos-124933",
+    "dropiId": 124933,
     "orderCode": "NA-0LN7MTQ",
     "name": "Perchero organizador para ropa y zapatos",
     "category": "Organización del hogar",
@@ -992,6 +1035,7 @@ const CATALOG = [
   },
   {
     "id": "contenedor-arroz-104653",
+    "dropiId": 104653,
     "orderCode": "NA-1RK0H4B",
     "name": "Contenedor rectangular para arroz",
     "category": "Cocina",
@@ -1014,6 +1058,7 @@ const CATALOG = [
   },
   {
     "id": "aspersor-circular-123285",
+    "dropiId": 123285,
     "orderCode": "NA-0XROT0O",
     "name": "Aspersor circular para jardín",
     "category": "Jardín",
@@ -1037,6 +1082,7 @@ const CATALOG = [
   },
   {
     "id": "cosmetiquera-espejo-led-136321",
+    "dropiId": 136321,
     "orderCode": "NA-071XQQB",
     "name": "Cosmetiquera con espejo y luz LED",
     "category": "Organización personal",
@@ -1060,6 +1106,7 @@ const CATALOG = [
   },
   {
     "id": "fundas-empaque-100-98571",
+    "dropiId": 98571,
     "orderCode": "NA-1NLR87I",
     "name": "Fundas de empaque 15 × 25 cm · 100 unidades",
     "category": "Organización del hogar",
@@ -1083,6 +1130,7 @@ const CATALOG = [
   },
   {
     "id": "cortina-led-multicolor-187639",
+    "dropiId": 187639,
     "orderCode": "NA-1OEO1N7",
     "name": "Cortina de luces LED multicolor 3 × 3 m",
     "category": "Iluminación y decoración",
@@ -1106,6 +1154,7 @@ const CATALOG = [
   },
   {
     "id": "lupa-led-82759",
+    "dropiId": 82759,
     "orderCode": "NA-1XYWVY9",
     "name": "Lupa de mano con luz LED",
     "category": "Hogar y herramientas",
@@ -1129,6 +1178,7 @@ const CATALOG = [
   },
   {
     "id": "organizador-closet-viaje",
+    "dropiId": 56297,
     "orderCode": "NA-0EP19R0",
     "name": "Organizador plegable de clóset y viaje",
     "category": "Organización del hogar",
@@ -1154,6 +1204,7 @@ const CATALOG = [
   },
   {
     "id": "organizador-40-bolsillos",
+    "dropiId": 185433,
     "orderCode": "NA-0Y4ZD1Q",
     "name": "Organizador colgante de 40 bolsillos",
     "category": "Organización del hogar",
@@ -1178,6 +1229,7 @@ const CATALOG = [
   },
   {
     "id": "organizador-huevos-nevera",
+    "dropiId": 185354,
     "orderCode": "NA-1FNKMR0",
     "name": "Caja organizadora de huevos",
     "category": "Cocina",
@@ -1202,6 +1254,7 @@ const CATALOG = [
   },
   {
     "id": "karaoke",
+    "dropiId": null,
     "orderCode": "NA-1R50V31",
     "name": "Mini Máquina de Karaoke",
     "category": "Entretenimiento",
@@ -1227,6 +1280,7 @@ const CATALOG = [
   },
   {
     "id": "linterna-led-6-en-1",
+    "dropiId": 1,
     "orderCode": "NA-1JVT20T",
     "name": "Linterna LED 6 en 1",
     "category": "Hogar y herramientas",
@@ -1251,6 +1305,7 @@ const CATALOG = [
   },
   {
     "id": "calculadora-cientifica-152547",
+    "dropiId": 152547,
     "name": "Calculadora científica avanzada",
     "category": "Oficina y estudio",
     "price": 30,
@@ -1273,6 +1328,7 @@ const CATALOG = [
   },
   {
     "id": "camara-dvr-auto-185350",
+    "dropiId": 185350,
     "name": "Cámara DVR para automóvil",
     "category": "Auto y viaje",
     "price": 39,
@@ -1296,6 +1352,7 @@ const CATALOG = [
   },
   {
     "id": "cable-usbc-base-143614",
+    "dropiId": 143614,
     "name": "Cable USB-C trenzado con base organizadora",
     "category": "Accesorios de tecnología",
     "price": 20,
@@ -1322,6 +1379,7 @@ const CATALOG = [
   },
   {
     "id": "cargador-auto-humidificador-179187",
+    "dropiId": 179187,
     "name": "Cargador para auto con luz RGB y difusor",
     "category": "Auto y viaje",
     "price": 34,
@@ -1347,6 +1405,7 @@ const CATALOG = [
   },
   {
     "id": "freidora-aire-6l-140099",
+    "dropiId": 140099,
     "name": "Freidora de aire digital de 6 litros",
     "category": "Cocina",
     "price": 59,
@@ -1372,6 +1431,7 @@ const CATALOG = [
   },
   {
     "id": "soportes-ruedas-ajustables-158798",
+    "dropiId": 158798,
     "name": "Soportes ajustables con ruedas · 4 piezas",
     "category": "Hogar y herramientas",
     "price": 22,
@@ -1394,6 +1454,7 @@ const CATALOG = [
   },
   {
     "id": "cocineta-gas-2-quemadores-188914",
+    "dropiId": 188914,
     "name": "Cocineta a gas de 2 quemadores",
     "category": "Cocina",
     "price": 45,
@@ -1418,6 +1479,7 @@ const CATALOG = [
   },
   {
     "id": "libro-interactivo-bilingue-123745",
+    "dropiId": 123745,
     "name": "Libro interactivo bilingüe español–inglés",
     "category": "Oficina y estudio",
     "price": 24,
@@ -1442,6 +1504,7 @@ const CATALOG = [
   },
   {
     "id": "cargador-inalambrico-3en1-188909",
+    "dropiId": 188909,
     "name": "Estación de carga inalámbrica 3 en 1",
     "category": "Accesorios de tecnología",
     "price": 34,
@@ -1466,6 +1529,7 @@ const CATALOG = [
   },
   {
     "id": "cuadernos-escritura-magica-85475",
+    "dropiId": 85475,
     "orderCode": "NA-0D8T463",
     "name": "Cuadernos reutilizables de escritura · 4 unidades",
     "category": "Oficina y estudio",
@@ -1489,6 +1553,7 @@ const CATALOG = [
   },
   {
     "id": "camara-wifi-ip66-65031",
+    "dropiId": 65031,
     "orderCode": "NA-CAM-IP66-001",
     "name": "Cámara Wi‑Fi IP66",
     "category": "Seguridad y tecnología",
@@ -1512,6 +1577,7 @@ const CATALOG = [
   },
   {
     "id": "plancha-vapor-portatil-82369",
+    "dropiId": 82369,
     "orderCode": "NA-1DQPGPM",
     "name": "Plancha de vapor portátil para ropa",
     "category": "Cuidado de la ropa",
@@ -1535,6 +1601,7 @@ const CATALOG = [
   },
   {
     "id": "bolsa-almacenamiento-179218",
+    "dropiId": 179218,
     "orderCode": "NA-1GPIVI4",
     "name": "Bolsa ecológica de almacenamiento",
     "category": "Organización del hogar",
@@ -1558,6 +1625,7 @@ const CATALOG = [
   },
   {
     "id": "pulverizador-aceite-172732",
+    "dropiId": 172732,
     "orderCode": "NA-1RRIT0R",
     "name": "Pulverizador de aceite para cocina",
     "category": "Cocina",
@@ -1581,6 +1649,7 @@ const CATALOG = [
   },
   {
     "id": "ventilador-recargable-super-161274",
+    "dropiId": 161274,
     "orderCode": "NA-1VW3CLQ",
     "name": "Ventilador recargable de mesa",
     "category": "Hogar y tecnología",
@@ -1604,6 +1673,7 @@ const CATALOG = [
   },
   {
     "id": "base-refrigerante-laptop-108627",
+    "dropiId": 108627,
     "orderCode": "NA-0K7YCT7",
     "name": "Base refrigerante para laptop",
     "category": "Accesorios de tecnología",
@@ -1627,6 +1697,7 @@ const CATALOG = [
   },
   {
     "id": "repetidor-wifi-139834",
+    "dropiId": 139834,
     "orderCode": "NA-187HBIQ",
     "name": "Repetidor amplificador de señal Wi‑Fi",
     "category": "Accesorios de tecnología",
@@ -1650,6 +1721,7 @@ const CATALOG = [
   },
   {
     "id": "mini-proyector-bolsillo-83973",
+    "dropiId": 83973,
     "orderCode": "NA-1NUPJ8I",
     "name": "Mini proyector de bolsillo",
     "category": "Entretenimiento",
@@ -1673,6 +1745,7 @@ const CATALOG = [
   },
   {
     "id": "fuente-agua-mascotas-97230",
+    "dropiId": 97230,
     "orderCode": "NA-PET-FNT-001",
     "name": "Fuente eléctrica de agua para mascotas · 2 litros",
     "category": "Mascotas",
@@ -1699,6 +1772,7 @@ const CATALOG = [
   },
   {
     "id": "audifonos-inalambricos-m27-60739",
+    "dropiId": 60739,
     "orderCode": "NA-098FU55",
     "name": "Audífonos inalámbricos M27",
     "category": "Accesorios de tecnología",
@@ -1722,6 +1796,7 @@ const CATALOG = [
   },
   {
     "id": "mini-camara-a9-wifi",
+    "dropiId": null,
     "orderCode": "NA-CAM-A9-001",
     "name": "Mini cámara A9 con soporte",
     "category": "Seguridad y tecnología",
@@ -1748,6 +1823,7 @@ const CATALOG = [
   },
   {
     "id": "ropero-closet-3-cuerpos-86793",
+    "dropiId": 86793,
     "orderCode": "NA-0WYA3CT",
     "name": "Ropero clóset de 3 cuerpos con forro",
     "category": "Organización del hogar",
@@ -1773,6 +1849,7 @@ const CATALOG = [
   },
   {
     "id": "rodillera-unidad-158443",
+    "dropiId": 158443,
     "orderCode": "NA-1K8IEP1",
     "name": "Rodillera ajustable · 1 unidad",
     "category": "Organización personal",
@@ -1798,6 +1875,7 @@ const CATALOG = [
   },
 {
     "id": "cocina-gas-portatil-191178",
+    "dropiId": 191178,
     "orderCode": "NA-MC5HTA",
     "name": "Cocina de gas portátil para camping",
     "category": "Auto y viaje",
@@ -1824,6 +1902,7 @@ const CATALOG = [
   },
 {
     "id": "batidor-mano-42608",
+    "dropiId": 42608,
     "orderCode": "NA-VGG7Y8",
     "name": "Batidor de mano de acero inoxidable",
     "category": "Cocina",
@@ -1850,6 +1929,7 @@ const CATALOG = [
   },
 {
     "id": "limpia-vasos-presion-267",
+    "dropiId": 267,
     "orderCode": "NA-CKFWVK",
     "name": "Lavavasos a presión para fregadero",
     "category": "Cocina",
@@ -1875,6 +1955,7 @@ const CATALOG = [
   },
 {
     "id": "spray-sellador-174911",
+    "dropiId": 174911,
     "orderCode": "NA-BG8SYS",
     "name": "Spray sellador impermeable",
     "category": "Hogar y herramientas",
@@ -1900,6 +1981,7 @@ const CATALOG = [
   },
 {
     "id": "dispensador-arroz-144708",
+    "dropiId": 144708,
     "orderCode": "NA-2K3KFG",
     "name": "Dispensador de arroz con dosificador",
     "category": "Cocina",
@@ -1926,6 +2008,7 @@ const CATALOG = [
   },
 {
     "id": "cepillo-dental-electrico-185071",
+    "dropiId": 185071,
     "orderCode": "NA-BVQG2N",
     "name": "Cepillo dental eléctrico recargable",
     "category": "Organización personal",
@@ -1953,6 +2036,7 @@ const CATALOG = [
   },
 {
     "id": "licuadora-mano-4en1-153287",
+    "dropiId": 153287,
     "orderCode": "NA-859BXN",
     "name": "Licuadora de mano 4 en 1",
     "category": "Cocina",
@@ -1980,6 +2064,7 @@ const CATALOG = [
   },
 {
     "id": "platera-vitrina-45340",
+    "dropiId": 45340,
     "orderCode": "NA-YTNCMD",
     "name": "Platera con vitrina protectora",
     "category": "Cocina",
@@ -2007,6 +2092,7 @@ const CATALOG = [
   },
 {
     "id": "taladro-2-baterias-124438",
+    "dropiId": 124438,
     "orderCode": "NA-CL8A6H",
     "name": "Taladro con 2 baterías recargables",
     "category": "Hogar y herramientas",
@@ -2033,6 +2119,7 @@ const CATALOG = [
   },
 {
     "id": "cepillo-giratorio-9en1-112421",
+    "dropiId": 112421,
     "orderCode": "NA-GYNLYA",
     "name": "Cepillo giratorio de limpieza 9 en 1",
     "category": "Limpieza",
@@ -2059,6 +2146,7 @@ const CATALOG = [
 ,
 {
     "id": "dispensador-huevos-104318",
+    "dropiId": 104318,
     "orderCode": "NA-Z9XQAB",
     "name": "Dispensador de huevos",
     "category": "Cocina",
@@ -2085,6 +2173,7 @@ const CATALOG = [
   },
 {
     "id": "mesa-auxiliar-3-niveles-171999",
+    "dropiId": 171999,
     "orderCode": "NA-GNV9EH",
     "name": "Mesa auxiliar de 3 niveles con ruedas",
     "category": "Organización del hogar",
@@ -2111,6 +2200,7 @@ const CATALOG = [
   },
 {
     "id": "juego-cuchillos-6-piezas-102353",
+    "dropiId": 102353,
     "orderCode": "NA-2QAUWL",
     "name": "Juego de cuchillos de 6 piezas",
     "category": "Cocina",
@@ -2138,6 +2228,7 @@ const CATALOG = [
 ,
 {
     "id": "termometro-cocina-33165",
+    "dropiId": 33165,
     "orderCode": "NA-CD6Q3P",
     "name": "Termómetro digital de cocina",
     "category": "Cocina",
@@ -2164,6 +2255,7 @@ const CATALOG = [
   },
 {
     "id": "tubo-expandible-172750",
+    "dropiId": 172750,
     "orderCode": "NA-EF7BYT",
     "name": "Tubo expandible multiuso",
     "category": "Organización del hogar",
@@ -2190,6 +2282,7 @@ const CATALOG = [
   },
 {
     "id": "platera-cocina-dos-pozos-14520",
+    "dropiId": 14520,
     "orderCode": "NA-QSJ968",
     "name": "Platera de cocina de dos niveles",
     "category": "Cocina",
@@ -2217,6 +2310,7 @@ const CATALOG = [
 ,
 {
     "id": "porta-utensilios-giratorio-189359",
+    "dropiId": 189359,
     "orderCode": "NA-6FARCN",
     "name": "Porta utensilios giratorio",
     "category": "Cocina",
@@ -2243,6 +2337,7 @@ const CATALOG = [
   },
 {
     "id": "utensilios-cocina-20-piezas-137448",
+    "dropiId": 137448,
     "orderCode": "NA-G3LN62",
     "name": "Set de utensilios de cocina · 20 piezas",
     "category": "Cocina",
