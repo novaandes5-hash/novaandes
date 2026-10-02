@@ -2361,6 +2361,192 @@ const CATALOG = [
     ],
     "availability": "Primera imagen retocada para eliminar publicidad del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
     "url": "https://novaandes.ec/productos/utensilios-cocina-20-piezas-137448/"
+  },
+  {
+    "id": "espuma-multiusos-limpieza-139833",
+    "dropiId": 139833,
+    "orderCode": "NA-FF6NZ6",
+    "name": "Espuma multiusos de limpieza profunda",
+    "category": "Limpieza",
+    "price": 21,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-139833-1.jpg",
+      "img/dropi-oct/dropi-139833-2.jpg",
+      "img/dropi-oct/dropi-139833-3.jpg",
+      "img/dropi-oct/dropi-139833-4.jpg"
+    ],
+    "description": "Espuma limpiadora multiusos con cepillo integrado; elimina grasa y suciedad de cocina, auto y muebles.",
+    "features": [
+      "Limpieza profunda con espuma activa",
+      "Cepillo integrado para fregar",
+      "Para cocina, auto, tapicería y más",
+      "Aroma fresco"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/espuma-multiusos-limpieza-139833/"
+  },
+  {
+    "id": "cinta-impermeable-techo-177068",
+    "dropiId": 177068,
+    "orderCode": "NA-XRJV56",
+    "name": "Cinta adhesiva impermeable para techo",
+    "category": "Hogar y herramientas",
+    "price": 33,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-177068-1.jpg",
+      "img/dropi-oct/dropi-177068-2.jpg",
+      "img/dropi-oct/dropi-177068-3.jpg"
+    ],
+    "description": "Membrana impermeabilizante para techos y terrazas; evita filtraciones de agua y humedad.",
+    "features": [
+      "Sella filtraciones y goteras",
+      "Resistente al agua y a la intemperie",
+      "Fácil aplicación sin herramientas",
+      "Para techos, terrazas y canalones"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/cinta-impermeable-techo-177068/"
+  },
+  {
+    "id": "mini-licuadora-portatil-16297",
+    "dropiId": 16297,
+    "orderCode": "NA-1A5QHN",
+    "name": "Mini licuadora portátil recargable",
+    "category": "Cocina",
+    "price": 23,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-16297-1.jpg",
+      "img/dropi-oct/dropi-16297-2.jpg",
+      "img/dropi-oct/dropi-16297-3.jpg",
+      "img/dropi-oct/dropi-16297-4.jpg",
+      "img/dropi-oct/dropi-16297-5.jpg"
+    ],
+    "description": "Licuadora portátil recargable por USB; prepara jugos y batidos donde quieras.",
+    "features": [
+      "Recargable por USB",
+      "Cuchillas de acero inoxidable",
+      "Compacta y fácil de llevar",
+      "Ideal para jugos, batidos y papillas"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/mini-licuadora-portatil-16297/"
+  },
+  {
+    "id": "mini-plancha-vapor-123103",
+    "dropiId": 123103,
+    "orderCode": "NA-CWAHD6",
+    "name": "Mini plancha de vapor portátil",
+    "category": "Cuidado de la ropa",
+    "price": 22,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-123103-1.jpg",
+      "img/dropi-oct/dropi-123103-2.jpg",
+      "img/dropi-oct/dropi-123103-3.jpg"
+    ],
+    "description": "Plancha de vapor portátil con calentamiento rápido; adiós arrugas en minutos.",
+    "features": [
+      "Calentamiento rápido",
+      "Vapor continuo para todo tipo de tela",
+      "Compacta, ideal para viajes",
+      "Depósito de 50 ml"
+    ],
+    "availability": "Imágenes retocadas para eliminar texto publicitario del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/mini-plancha-vapor-123103/"
+  },
+  {
+    "id": "zapatera-organizador-apilable-24151",
+    "dropiId": 24151,
+    "orderCode": "NA-ECZ7FQ",
+    "name": "Zapatera organizador apilable transparente",
+    "category": "Organización del hogar",
+    "price": 39,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-24151-1.jpg",
+      "img/dropi-oct/dropi-24151-2.jpg",
+      "img/dropi-oct/dropi-24151-3.jpg"
+    ],
+    "description": "Cajas transparentes apilables para organizar zapatos, ropa y accesorios.",
+    "features": [
+      "Diseño apilable que ahorra espacio",
+      "Puerta frontal transparente",
+      "Para zapatos, ropa y gorras",
+      "Fácil de armar y limpiar"
+    ],
+    "availability": "Imágenes retocadas para eliminar texto publicitario del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/zapatera-organizador-apilable-24151/"
+  },
+  {
+    "id": "cuchillo-clever-2en1-120172",
+    "dropiId": 120172,
+    "orderCode": "NA-JLVI3O",
+    "name": "Cuchillo clever 2 en 1 con tabla",
+    "category": "Cocina",
+    "price": 19,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-120172-1.jpg",
+      "img/dropi-oct/dropi-120172-2.jpg",
+      "img/dropi-oct/dropi-120172-3.jpg",
+      "img/dropi-oct/dropi-120172-4.jpg"
+    ],
+    "description": "Tijera-cuchillo 2 en 1 con tabla de cortar integrada; corta y pica en segundos.",
+    "features": [
+      "Cuchillo y tijera en uno",
+      "Tabla de cortar integrada",
+      "Acero inoxidable",
+      "Ideal para verduras, hierbas y más"
+    ],
+    "availability": "Imágenes retocadas para eliminar texto publicitario del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/cuchillo-clever-2en1-120172/"
+  },
+  {
+    "id": "rodillo-quita-pelusa-76835",
+    "dropiId": 76835,
+    "orderCode": "NA-G5H38I",
+    "name": "Rodillo quita pelusa para mascotas",
+    "category": "Mascotas",
+    "price": 22,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-76835-1.jpg",
+      "img/dropi-oct/dropi-76835-2.jpg",
+      "img/dropi-oct/dropi-76835-3.jpg"
+    ],
+    "description": "Rodillo grande para quitar pelo de mascotas de sofás, camas y ropa.",
+    "features": [
+      "Atrapa pelo de perros y gatos",
+      "Para sofá, cama, mantas y ropa",
+      "Mango ergonómico",
+      "Reutilizable y fácil de limpiar"
+    ],
+    "availability": "Imágenes retocadas para eliminar texto publicitario del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/rodillo-quita-pelusa-76835/"
   }
 ];
 

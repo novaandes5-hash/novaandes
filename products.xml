@@ -890,4 +890,74 @@
     <description>Set de 20 piezas de cocina con mangos color menta y detalles cobre: incluye base organizadora; resistentes al calor y aptos para antiadherentes.</description>
     <availability>in_stock</availability>
   </product>
+  <product>
+    <id>espuma-multiusos-limpieza-139833</id>
+    <title>Espuma multiusos de limpieza profunda</title>
+    <link>https://novaandes.ec/productos/espuma-multiusos-limpieza-139833/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-139833-1.jpg</image>
+    <price>21.00 USD</price>
+    <category>Limpieza</category>
+    <description>Espuma limpiadora multiusos con cepillo integrado; elimina grasa y suciedad de cocina, auto y muebles.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>cinta-impermeable-techo-177068</id>
+    <title>Cinta adhesiva impermeable para techo</title>
+    <link>https://novaandes.ec/productos/cinta-impermeable-techo-177068/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-177068-1.jpg</image>
+    <price>33.00 USD</price>
+    <category>Hogar y herramientas</category>
+    <description>Membrana impermeabilizante para techos y terrazas; evita filtraciones de agua y humedad.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>mini-licuadora-portatil-16297</id>
+    <title>Mini licuadora portátil recargable</title>
+    <link>https://novaandes.ec/productos/mini-licuadora-portatil-16297/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-16297-1.jpg</image>
+    <price>23.00 USD</price>
+    <category>Cocina</category>
+    <description>Licuadora portátil recargable por USB; prepara jugos y batidos donde quieras.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>mini-plancha-vapor-123103</id>
+    <title>Mini plancha de vapor portátil</title>
+    <link>https://novaandes.ec/productos/mini-plancha-vapor-123103/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-123103-1.jpg</image>
+    <price>22.00 USD</price>
+    <category>Cuidado de la ropa</category>
+    <description>Plancha de vapor portátil con calentamiento rápido; adiós arrugas en minutos.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>zapatera-organizador-apilable-24151</id>
+    <title>Zapatera organizador apilable transparente</title>
+    <link>https://novaandes.ec/productos/zapatera-organizador-apilable-24151/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-24151-1.jpg</image>
+    <price>39.00 USD</price>
+    <category>Organización del hogar</category>
+    <description>Cajas transparentes apilables para organizar zapatos, ropa y accesorios.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>cuchillo-clever-2en1-120172</id>
+    <title>Cuchillo clever 2 en 1 con tabla</title>
+    <link>https://novaandes.ec/productos/cuchillo-clever-2en1-120172/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-120172-1.jpg</image>
+    <price>19.00 USD</price>
+    <category>Cocina</category>
+    <description>Tijera-cuchillo 2 en 1 con tabla de cortar integrada; corta y pica en segundos.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>rodillo-quita-pelusa-76835</id>
+    <title>Rodillo quita pelusa para mascotas</title>
+    <link>https://novaandes.ec/productos/rodillo-quita-pelusa-76835/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-76835-1.jpg</image>
+    <price>22.00 USD</price>
+    <category>Mascotas</category>
+    <description>Rodillo grande para quitar pelo de mascotas de sofás, camas y ropa.</description>
+    <availability>in_stock</availability>
+  </product>
 </products>
