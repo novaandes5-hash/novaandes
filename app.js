@@ -2214,11 +2214,74 @@ const CATALOG = [
     "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
     "url": "https://novaandes.ec/productos/platera-cocina-dos-pozos-14520/"
   }
+,
+{
+    "id": "porta-utensilios-giratorio-189359",
+    "orderCode": "NA-6FARCN",
+    "name": "Porta utensilios giratorio",
+    "category": "Cocina",
+    "price": 20,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-189359-1.png",
+      "img/dropi-oct/dropi-189359-2.png",
+      "img/dropi-oct/dropi-189359-3.png"
+    ],
+    "description": "Porta utensilios giratorio de acero inoxidable con 3 compartimentos (17 × 12 cm): mantiene la cocina organizada con los utensilios siempre al alcance.",
+    "features": [
+      "Diseño giratorio 360°",
+      "3 compartimentos internos",
+      "Acero inoxidable resistente",
+      "Medidas: 17 cm de alto × 12 cm de diámetro",
+      "Ideal para una cocina organizada"
+    ],
+    "availability": "Primera imagen retocada para eliminar publicidad del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/porta-utensilios-giratorio-189359/"
+  },
+{
+    "id": "utensilios-cocina-20-piezas-137448",
+    "orderCode": "NA-G3LN62",
+    "name": "Set de utensilios de cocina · 20 piezas",
+    "category": "Cocina",
+    "price": 32,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-137448-1.png",
+      "img/dropi-oct/dropi-137448-2.jpg",
+      "img/dropi-oct/dropi-137448-3.jpg"
+    ],
+    "description": "Set de 20 piezas de cocina con mangos color menta y detalles cobre: incluye base organizadora; resistentes al calor y aptos para antiadherentes.",
+    "features": [
+      "20 piezas con base organizadora",
+      "Mangos color menta con detalles cobre",
+      "Resistentes al calor",
+      "Aptos para sartenes antiadherentes",
+      "Cuchillos, espátulas, cucharones y más"
+    ],
+    "availability": "Primera imagen retocada para eliminar publicidad del proveedor; el producto es el mismo. Confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/utensilios-cocina-20-piezas-137448/"
+  }
 ];
 
 // Verified gallery overrides. Every image below matches the same catalog item;
 // no related-product or abstract imagery.
 const VERIFIED_GALLERIES = {
+  "utensilios-cocina-20-piezas-137448": [
+    "img/dropi-oct/dropi-137448-1.png",
+    "img/dropi-oct/dropi-137448-2.jpg",
+    "img/dropi-oct/dropi-137448-3.jpg"
+  ],
+  "porta-utensilios-giratorio-189359": [
+    "img/dropi-oct/dropi-189359-1.png",
+    "img/dropi-oct/dropi-189359-2.png",
+    "img/dropi-oct/dropi-189359-3.png"
+  ],
   "platera-cocina-dos-pozos-14520": [
     "img/dropi-oct/dropi-14520-3.jpeg",
     "img/dropi-oct/dropi-14520-2.jpeg",
