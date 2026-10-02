@@ -880,4 +880,34 @@
     <description>Juego de 6 piezas en colores pastel: 4 cuchillos de acero inoxidable con filo corrugado, más tijera de cocina y pelador cerámico, en caja de presentación.</description>
     <availability>in_stock</availability>
   </product>
+  <product>
+    <id>termometro-cocina-33165</id>
+    <title>Termómetro digital de cocina</title>
+    <link>https://novaandes.ec/productos/termometro-cocina-33165/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-33165-1.jpeg</image>
+    <price>22.00 USD</price>
+    <category>Cocina</category>
+    <description>Termómetro digital de cocina con sonda de acero inoxidable y pantalla LCD de lectura rápida: ideal para carnes, asados y repostería.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>tubo-expandible-172750</id>
+    <title>Tubo expandible multiuso</title>
+    <link>https://novaandes.ec/productos/tubo-expandible-172750/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-172750-1.jpeg</image>
+    <price>23.00 USD</price>
+    <category>Organización del hogar</category>
+    <description>Barra expandible de acero inoxidable de 140 a 260 cm: se instala por presión sin taladrar, ideal para cocina, armario, baño o cortinas.</description>
+    <availability>in_stock</availability>
+  </product>
+  <product>
+    <id>platera-cocina-dos-pozos-14520</id>
+    <title>Platera de cocina de dos niveles</title>
+    <link>https://novaandes.ec/productos/platera-cocina-dos-pozos-14520/</link>
+    <image>https://novaandes.ec/img/dropi-oct/dropi-14520-3.jpeg</image>
+    <price>34.00 USD</price>
+    <category>Cocina</category>
+    <description>Escurridor de acero inoxidable de dos niveles sobre el fregadero (85 × 35,5 × 49 cm): con estante para utensilios, ganchos y soporte para tabla de picar.</description>
+    <availability>in_stock</availability>
+  </product>
 </products>

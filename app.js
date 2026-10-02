@@ -2135,11 +2135,105 @@ const CATALOG = [
     "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
     "url": "https://novaandes.ec/productos/juego-cuchillos-6-piezas-102353/"
   }
+,
+{
+    "id": "termometro-cocina-33165",
+    "orderCode": "NA-CD6Q3P",
+    "name": "Termómetro digital de cocina",
+    "category": "Cocina",
+    "price": 22,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-33165-1.jpeg",
+      "img/dropi-oct/dropi-33165-3.jpeg",
+      "img/dropi-oct/dropi-33165-2.jpeg"
+    ],
+    "description": "Termómetro digital de cocina con sonda de acero inoxidable y pantalla LCD de lectura rápida: ideal para carnes, asados y repostería.",
+    "features": [
+      "Pantalla digital LCD de lectura rápida",
+      "Sonda larga de acero inoxidable",
+      "Botones °C/°F y función Hold",
+      "Ideal para carnes, asados y repostería",
+      "Diseño compacto fácil de guardar"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/termometro-cocina-33165/"
+  },
+{
+    "id": "tubo-expandible-172750",
+    "orderCode": "NA-EF7BYT",
+    "name": "Tubo expandible multiuso",
+    "category": "Organización del hogar",
+    "price": 23,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-172750-1.jpeg",
+      "img/dropi-oct/dropi-172750-2.jpeg",
+      "img/dropi-oct/dropi-172750-3.jpg"
+    ],
+    "description": "Barra expandible de acero inoxidable de 140 a 260 cm: se instala por presión sin taladrar, ideal para cocina, armario, baño o cortinas.",
+    "features": [
+      "Ajustable de 140 a 260 cm",
+      "Instalación por presión, sin taladrar",
+      "Acero inoxidable antideslizante",
+      "Para cocina, armario, baño o cortinas",
+      "Color según disponibilidad"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/tubo-expandible-172750/"
+  },
+{
+    "id": "platera-cocina-dos-pozos-14520",
+    "orderCode": "NA-QSJ968",
+    "name": "Platera de cocina de dos niveles",
+    "category": "Cocina",
+    "price": 34,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-14520-3.jpeg",
+      "img/dropi-oct/dropi-14520-2.jpeg",
+      "img/dropi-oct/dropi-14520-1.webp"
+    ],
+    "description": "Escurridor de acero inoxidable de dos niveles sobre el fregadero (85 × 35,5 × 49 cm): con estante para utensilios, ganchos y soporte para tabla de picar.",
+    "features": [
+      "Dos niveles que aprovechan el fregadero",
+      "Acero inoxidable resistente",
+      "Medidas: 85 × 35,5 × 49 cm",
+      "Ganchos y soporte para tabla incluidos",
+      "Ahorra espacio en la cocina"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
+    "url": "https://novaandes.ec/productos/platera-cocina-dos-pozos-14520/"
+  }
 ];
 
 // Verified gallery overrides. Every image below matches the same catalog item;
 // no related-product or abstract imagery.
 const VERIFIED_GALLERIES = {
+  "platera-cocina-dos-pozos-14520": [
+    "img/dropi-oct/dropi-14520-3.jpeg",
+    "img/dropi-oct/dropi-14520-2.jpeg",
+    "img/dropi-oct/dropi-14520-1.webp"
+  ],
+  "tubo-expandible-172750": [
+    "img/dropi-oct/dropi-172750-1.jpeg",
+    "img/dropi-oct/dropi-172750-2.jpeg",
+    "img/dropi-oct/dropi-172750-3.jpg"
+  ],
+  "termometro-cocina-33165": [
+    "img/dropi-oct/dropi-33165-1.jpeg",
+    "img/dropi-oct/dropi-33165-3.jpeg",
+    "img/dropi-oct/dropi-33165-2.jpeg"
+  ],
   "juego-cuchillos-6-piezas-102353": [
     "img/dropi-oct/dropi-102353-1.jpg",
     "img/dropi-oct/dropi-102353-2.jpg",
