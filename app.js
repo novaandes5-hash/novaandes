@@ -2651,6 +2651,32 @@ const CATALOG = [
     ],
     "availability": "Imágenes del proveedor; confirmamos modelo, stock actual, accesorios y precio final antes de aceptar el pedido.",
     "url": "https://novaandes.ec/productos/zapatera-plegable-6-niveles-174382/"
+  },
+  {
+    "id": "aceite-semilla-negra-177871",
+    "dropiId": 177871,
+    "orderCode": "NA-BS7K2M",
+    "name": "Aceite de semilla negra etíope",
+    "category": "Salud y bienestar",
+    "price": 25,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/blackseed-177871-1.jpg",
+      "img/blackseed-177871-2.jpg",
+      "img/blackseed-177871-3.jpg"
+    ],
+    "description": "Suplemento en cápsulas blandas de aceite de semilla negra de origen etíope. Frasco con 60 softgels.",
+    "features": [
+      "60 cápsulas blandas por frasco",
+      "Aceite de semilla negra etíope",
+      "Formato softgel fácil de tomar",
+      "Suplemento dietario"
+    ],
+    "availability": "Imágenes del proveedor; confirmamos presentación, contenido y existencias actuales antes de aceptar el pedido. Este es un suplemento dietario, no un medicamento; no diagnostica, trata ni cura enfermedades.",
+    "url": "https://novaandes.ec/productos/aceite-semilla-negra-177871/"
   }
 ];
 
