@@ -2677,6 +2677,35 @@ const CATALOG = [
     ],
     "availability": "Imágenes del proveedor; confirmamos presentación, contenido y existencias actuales antes de aceptar el pedido. Este es un suplemento dietario, no un medicamento; no diagnostica, trata ni cura enfermedades.",
     "url": "https://novaandes.ec/productos/aceite-semilla-negra-177871/"
+  },
+  {
+    "id": "corrector-postura-128587",
+    "dropiId": 128587,
+    "orderCode": "NA-5KAMP1",
+    "name": "Corrector de postura",
+    "category": "Salud y bienestar",
+    "price": 20,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-128587-1.jpg",
+      "img/dropi-oct/dropi-128587-2.jpg",
+      "img/dropi-oct/dropi-128587-3.jpg"
+    ],
+    "description": "Corrector de postura tipo faja con correas cruzadas en forma de X y varillas de fibra que dan soporte a hombros y espalda. Ayuda a aliviar la tensión de hombros y espalda y a mantener una postura más alineada en el día a día. Ligero y elástico, se puede usar debajo o encima de la ropa y se ajusta fácilmente sin ayuda de otra persona.",
+    "features": [
+      "Correas cruzadas en X para hombros y espalda",
+      "Varillas de fibra que ayudan a alinear la espalda",
+      "Doble función: corrige postura y da soporte lumbar",
+      "Ligero, elástico y cómodo para uso diario",
+      "Se usa debajo o encima de la ropa",
+      "Fácil de poner y ajustar sin ayuda",
+      "Color negro"
+    ],
+    "availability": "Tallas sujetas a stock del proveedor (S y 2XL disponibles al momento de la publicación). La tercera imagen fue recortada para eliminar texto promocional del proveedor. Confirmamos talla y existencias antes de aceptar el pedido. Foto del proveedor.",
+    "url": "https://novaandes.ec/productos/corrector-postura-128587/"
   }
 ];
 
