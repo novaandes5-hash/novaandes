@@ -2704,7 +2704,7 @@ const CATALOG = [
       "Fácil de poner y ajustar sin ayuda",
       "Color negro"
     ],
-    "availability": "Tallas sujetas a stock del proveedor (S y 2XL disponibles al momento de la publicación). La tercera imagen fue recortada para eliminar texto promocional del proveedor. Confirmamos talla y existencias antes de aceptar el pedido. Foto del proveedor.",
+    "availability": "Tallas sujetas a stock del proveedor. La tercera imagen fue recortada para eliminar texto promocional del proveedor. Confirmamos talla y existencias antes de aceptar el pedido. Foto del proveedor.",
     "url": "https://novaandes.ec/productos/corrector-postura-128587/"
   },
   {
