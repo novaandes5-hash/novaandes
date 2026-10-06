@@ -2730,7 +2730,7 @@ const CATALOG = [
       "Ideal para jugos, batidos y smoothies",
       "Fácil de usar y de limpiar"
     ],
-    "availability": "Stock del proveedor al momento de la publicación: 74 unidades (Guayaquil). Confirmamos existencias antes de aceptar el pedido. Fotos del proveedor.",
+    "availability": "Confirmamos existencias antes de aceptar el pedido. Fotos del proveedor.",
     "url": "https://novaandes.ec/productos/licuadora-portatil-recargable-187815/"
   }
 ];
