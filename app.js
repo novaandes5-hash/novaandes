@@ -256,7 +256,7 @@ const CATALOG = [
       "Para cocina compatible",
       "Alimentos y utensilios no incluidos"
     ],
-    "availability": "La primera foto es del proveedor sin publicidad de KAY-IMPORTS; las imágenes adicionales son recreaciones de referencia. Confirmamos diámetro, material, compatibilidad, variante y existencias antes del pedido.",
+    "availability": "La primera foto es del proveedor; las imágenes adicionales son recreaciones de referencia. Confirmamos diámetro, material, compatibilidad, variante y existencias antes del pedido.",
     "url": "https://novaandes.ec/productos/sarten-coreano-121419/"
   },
   {
