@@ -1228,5 +1228,17 @@
       <g:brand>NovaAndes</g:brand>
       <g:product_type>Salud y bienestar</g:product_type>
     </item>
+    <item>
+      <g:id>NA-GNM7N2</g:id>
+      <g:title>Licuadora portátil recargable</g:title>
+      <g:description>Licuadora portátil recargable por USB para preparar jugos y batidos frescos donde estés. Vaso transparente con tapa, base compacta y cable de carga USB incluido. Fácil de usar, de transportar y de limpiar.</g:description>
+      <g:link>https://novaandes.ec/productos/licuadora-portatil-recargable-187815/</g:link>
+      <g:image_link>https://novaandes.ec/img/dropi-oct/dropi-187815-2.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>25.00 USD</g:price>
+      <g:brand>NovaAndes</g:brand>
+      <g:product_type>Cocina</g:product_type>
+    </item>
   </channel>
 </rss>

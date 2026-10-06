@@ -2706,6 +2706,32 @@ const CATALOG = [
     ],
     "availability": "Tallas sujetas a stock del proveedor (S y 2XL disponibles al momento de la publicación). La tercera imagen fue recortada para eliminar texto promocional del proveedor. Confirmamos talla y existencias antes de aceptar el pedido. Foto del proveedor.",
     "url": "https://novaandes.ec/productos/corrector-postura-128587/"
+  },
+  {
+    "id": "licuadora-portatil-recargable-187815",
+    "dropiId": 187815,
+    "orderCode": "NA-GNM7N2",
+    "name": "Licuadora portátil recargable",
+    "category": "Cocina",
+    "price": 25,
+    "currency": "USD",
+    "status": "published",
+    "retailApproved": true,
+    "shipping": "Envío incluido, sujeto a cobertura",
+    "images": [
+      "img/dropi-oct/dropi-187815-2.jpg",
+      "img/dropi-oct/dropi-187815-1.jpg"
+    ],
+    "description": "Licuadora portátil recargable por USB para preparar jugos y batidos frescos donde estés. Vaso transparente con tapa, base compacta y cable de carga USB incluido. Fácil de usar, de transportar y de limpiar.",
+    "features": [
+      "Recargable por USB (cable incluido)",
+      "Portátil y compacta para llevar a todas partes",
+      "Vaso con tapa para tomar directamente",
+      "Ideal para jugos, batidos y smoothies",
+      "Fácil de usar y de limpiar"
+    ],
+    "availability": "Stock del proveedor al momento de la publicación: 74 unidades (Guayaquil). Confirmamos existencias antes de aceptar el pedido. Fotos del proveedor.",
+    "url": "https://novaandes.ec/productos/licuadora-portatil-recargable-187815/"
   }
 ];
 
