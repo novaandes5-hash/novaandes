@@ -1572,7 +1572,7 @@ const CATALOG = [
       "Aplicación, resolución y almacenamiento sujetos a confirmación",
       "Accesorios de montaje sujetos al modelo"
     ],
-    "availability": "Stock de referencia confirmado el 27/09/2026. Confirmamos existencias, compatibilidad, alimentación y accesorios antes del pedido.",
+    "availability": "Confirmamos existencias, compatibilidad, alimentación y accesorios antes del pedido.",
     "url": "https://novaandes.ec/productos/camara-wifi-ip66-65031/"
   },
   {
